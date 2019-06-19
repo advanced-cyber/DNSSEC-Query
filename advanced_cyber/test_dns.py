@@ -43,14 +43,26 @@ def traceDNSSEC(command):
             workline2 = items.split()        # Received line
             try:
                 if (len(workline1) == 5):
+                    algorithm = "Null"
+                    name = workline1[0]
+                    raddress = workline2[5]
                     print("Algorithm: "+"Null"+" Name: "+workline1[0])
                     print("Raddress: "+workline2[5])
                 else:
+                    algorithm = workline1[5]
+                    name = workline1[0]
+                    raddress = workline2[5]
                     print("Algorithm: "+workline1[5]+" Name: "+workline1[0])
                     print("Raddress: "+workline2[5])
             except Exception:
+                algorithm = "Null"
+                name = workline1[0]
+                raddress = workline2[5]
                 print("Algorithm: "+"Null"+" Name: "+workline1[0])
                 print("Raddress: "+workline2[5])
+            # insert into traceDATA object and print
+            a = traceDATA(name, 0, algorithm, raddress)
+            a.prinTrace()
         oldline = items
 
 if __name__ == "__main__":
