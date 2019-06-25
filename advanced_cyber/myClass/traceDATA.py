@@ -1,18 +1,23 @@
 class traceDATA:
 
-
+    __key = ""           # key for query
     __name = ""          # name address part
     __secflag = False    # RRSIG
-    __algorithm = 0      # algorithm used
+    __algorithm = -1     # algorithm used
     __Raddress = ""      # receive address
 
     # constructor
-    def __init__(self, name, secflag, algorithm, Raddress):
+    def __init__(self, key, name, secflag, algorithm, Raddress):
+        self.__key = key
         self.__name = name
         self.__secflag = secflag
         self.__algorithm = algorithm
         self.__Raddress = Raddress
 
+    # get key from object
+    def getKey(self):
+        return self.__key
+    
     # get name from object
     def getName(self):
         return self.__name
@@ -31,5 +36,5 @@ class traceDATA:
 
     # print object
     def prinTrace(self):
-        print(self.__name, self.__secflag, self.__algorithm, self.__Raddress)
+        print(self.__key, self.__name, self.__secflag, self.__algorithm, self.__Raddress)
 
