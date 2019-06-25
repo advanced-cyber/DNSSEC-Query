@@ -1,0 +1,20 @@
+www.publicworkers.bb
+dig: couldn't get address for 'ns1.ub.bw': no more
+www.bca.cv
+www.bnonline.fi.cr
+www.ekstrabladet.dk
+www.intnet.dj
+dig: couldn't get address for 'a.nic.et': no more
+dig: couldn't get address for 'b.nic.et': no more
+dig: couldn't get address for 'a.nic.et': no more
+www.gbets.co.ls
+www.nul.ls
+www.ami.mr
+dig: couldn't get address for 'poste1.uvs.sn': no more
+www.tatoli.tl
+www.univ-lome.tg
+www.hurriyet.com.tr
+www.vtv.vn
+www.oschina.net
+www.qq.com
+

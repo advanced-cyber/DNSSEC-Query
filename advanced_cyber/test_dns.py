@@ -77,8 +77,13 @@ def traceDNSSEC(command, key):
                         secflag = 1
             except Exception:
                 algorithm = -1
-                name = workline1[0]
+                print('Exception: ')
+                print(site)
+                print(oldline)
+                print(items)
+                # name = workline1[0]
                 raddress = workline2[5]
+                name = '-1'
                 query_flag = False            # no dnssec in trace, if all rows reach this stage with secflag=1, the query_flag will be 1
             a = traceDATA(key, name, secflag, algorithm, raddress)
             rows.append(a)
