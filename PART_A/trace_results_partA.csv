@@ -1,0 +1,731 @@
+Website,Partial Query,SecFlag,Algorithm,Received Address,Status,Note
+www.jobs.af,.,1,8,192.115.106.35#53(192.115.106.35),OK,". to af: The following NS name(s) were found in the authoritative NS RRset, but not in the delegation NS RRset (i.e., in the . zone): pch.nic.af, gransy.nic.af"
+www.jobs.af,af.,1,8,198.97.190.53#53(h.root-servers.net),OK,"af zone: The server(s) were not responsive to queries over UDP. (2a03:dd40:3::93, 2a03:dd40:3::111)
+af/DNSKEY: No response was received from the server over UDP (tried 12 times). (185.17.236.111, UDP_-_NOEDNS_)
+af/DNSKEY: No response was received from the server over UDP (tried 4 times). (185.17.236.111, UDP_-_EDNS0_512_D_K)"
+www.jobs.af,14P8SNH9CB8QBM5PMO13K191J59JR2IK.af.,1,8,185.17.236.93#53(ns.cocca.fr),DelegationInsecure,
+www.jobs.af,jobs.af.,0,-1,205.251.199.120#53(ns-1912.awsdns-47.co.uk),Error,"amazonaws.com to ap-south-1.elb.amazonaws.com: The server(s) for the parent zone (amazonaws.com) responded with a referral instead of answering authoritatively for the DS RR type. (205.251.192.27, 205.251.195.199, 2600:9000:5300:1b00::1, 2600:9000:5303:c700::1, UDP_-_EDNS0_4096_D_K)"
+www.afghantelecom.af,.,1,8,192.115.106.35#53(192.115.106.35),OK,". to af: The following NS name(s) were found in the authoritative NS RRset, but not in the delegation NS RRset (i.e., in the . zone): pch.nic.af, gransy.nic.af
+. to af: The following NS name(s) were found in the delegation NS RRset (i.e., in the . zone), but not in the authoritative NS RRset: ns.anycast.nic.af, ns.coccaregistry.org"
+www.afghantelecom.af,af.,1,8,193.0.14.129#53(k.root-servers.net),OK,"af zone: The server(s) were not responsive to queries over UDP. (2a03:dd40:3::93, 2a03:dd40:3::111)
+af/DNSKEY: The response had an invalid RCODE (REFUSED). (185.17.236.111, UDP_-_EDNS0_4096_D_K, UDP_-_EDNS0_512_D_K)
+afghantelecom.af/DS: No response was received from the server over UDP (tried 12 times). (185.17.236.111, UDP_-_NOEDNS_)"
+www.afghantelecom.af,E6S72L2GEO3TI2PIQQ55HKNTHK7PHCRU.af.,1,8,185.17.236.93#53(ns.cocca.fr),DelegationInsecure,"www.afghantelecom.af/A: The server responded with no OPT record, rather than with RCODE FORMERR. (64.150.179.21, 64.150.179.106, UDP_-_EDNS0_4096_D_K)"
+www.afghantelecom.af,afghantelecom.af.,0,-1,64.150.179.21#53(ns1.codero.com),NO,
+www.roshan.af,.,1,8,192.115.106.35#53(192.115.106.35),OK,". to af: The following NS name(s) were found in the authoritative NS RRset, but not in the delegation NS RRset (i.e., in the . zone): pch.nic.af, gransy.nic.af
+. to af: The following NS name(s) were found in the delegation NS RRset (i.e., in the . zone), but not in the authoritative NS RRset: ns.anycast.nic.af, ns.coccaregistry.org"
+www.roshan.af,af.,1,8,202.12.27.33#53(m.root-servers.net),DelegationInsecure,
+www.roshan.af,7MKLG5N24DNQ148OI93DA28P3ANT2EN0.af.,1,8,185.17.236.111#53(ns.coccaregistry.org),DelegationInsecure,"af to roshan.af: The following NS name(s) were found in the authoritative NS RRset, but not in the delegation NS RRset (i.e., in the af zone): pdns6.ultradns.co.uk, pdns5.ultradns.info, pdns4.ultradns.org, pdns1.ultradns.net, pdns3.ultradns.org, pdns2.ultradns.net                                                                                                                          af to roshan.af: The following NS name(s) were found in the delegation NS RRset (i.e., in the af zone), but not in the authoritative NS RRset: udns1.ultradns.net, udns2.ultradns.net"
+www.roshan.af,roshan.af.,0,-1,204.69.234.1#53(udns1.ultradns.net),NO,
+www.noa.al,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.noa.al,al.,1,8,192.112.36.4#53(g.root-servers.net),DelegationInsecure,
+www.noa.al,noa.al.,0,-1,194.0.11.108#53(nsx.nic.al),NO,
+www.noa.al,www.noa.al.,0,-1,173.245.58.130#53(lily.ns.cloudflare.com),NO,
+www.merrjep.al,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.merrjep.al,al.,1,8,199.7.91.13#53(d.root-servers.net),DelegationInsecure,
+www.merrjep.al,merrjep.al.,0,-1,202.29.151.3#53(munnari.oz.au),NO,
+www.merrjep.al,www.merrjep.al.,1,8,93.188.0.21#53(ns2.loopia.se),OK,
+www.boldnews.al,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.boldnews.al,al.,1,8,192.203.230.10#53(e.root-servers.net),DelegationInsecure,
+www.boldnews.al,boldnews.al.,0,-1,194.1.149.230#53(ns1.nic.al),NO,
+www.boldnews.al,www.boldnews.al.,1,13,173.245.59.120#53(ivan.ns.cloudflare.com),OK,
+www.poste.dz,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.poste.dz,dz.,1,8,199.7.83.42#53(l.root-servers.net),OK,
+www.poste.dz,poste.dz.,1,8,213.179.160.66#53(ns2.nic.dz),OK,
+www.poste.dz,poste.dz.,0,-1,80.249.65.105#53(ns5.poste.dz),Error,"poste.dz zone: The server(s) were not responsive to queries over UDP. (80.249.65.6, 80.249.65.7, 80.249.65.38, 80.249.65.39)"
+www.mobilis.dz,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.mobilis.dz,dz.,1,8,199.7.91.13#53(d.root-servers.net),OK,
+www.mobilis.dz,mobilis.dz.,1,8,213.179.160.66#53(ns2.nic.dz),DelegationInsecure,
+www.mobilis.dz,mobilis.dz.,0,-1,193.251.169.165#53(dns-1.djaweb.dz),NO,"dz to mobilis.dz: The following NS name(s) were found in the delegation NS RRset (i.e., in the dz zone), but not in the authoritative NS RRset: dns-3.djaweb.dz, dns-4.djaweb.dz"
+www.onec.dz,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.onec.dz,dz.,1,8,199.9.14.201#53(b.root-servers.net),OK,
+www.onec.dz,onec.dz.,1,8,193.194.64.242#53(ns1.nic.dz),DelegationInsecure,
+www.onec.dz,onec.dz.,0,-1,193.251.169.166#53(dns-2.djaweb.dz),NO,
+www.sapo.ao,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.sapo.ao,ao.,1,8,192.203.230.10#53(e.root-servers.net),DelegationInsecure,
+www.sapo.ao,sapo.ao.,0,-1,198.6.1.82#53(auth02.ns.uu.net),DelegationInsecure,
+www.sapo.ao,sapo.ao.,0,-1,212.55.154.194#53(ns2.sapo.ao),NO,"www.sapo.ao/A: The server responded with no OPT record, rather than with RCODE FORMERR. (212.55.154.194, 212.55.154.202, UDP_-_EDNS0_4096_D_K)"
+www.angop.ao,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.angop.ao,ao.,1,8,192.33.4.12#53(c.root-servers.net),Error,"co.ao to portalangop.co.ao: The server(s) for the parent zone (co.ao) responded with a referral instead of answering authoritatively for the DS RR type. (41.216.238.150, UDP_-_EDNS0_4096_D_K)                                                                                                                                                                                                                                                    co.ao zone: The server(s) were not responsive to queries over UDP. (213.251.152.7)"
+www.angop.ao,angop.ao.,0,-1,197.149.149.11#53(ns02.dns.ao),DelegationInsecure,"ao to angop.ao: The following NS name(s) were found in the authoritative NS RRset, but not in the delegation NS RRset (i.e., in the ao zone): ns2.mstelcom.net, ns1.mstelcom.net"
+www.angop.ao,www.angop.ao.,0,-1,41.221.240.22#53(delta.netangola.com),NO,
+www.angolatelecom.ao,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.angolatelecom.ao,ao.,1,8,199.9.14.201#53(b.root-servers.net),DelegationInsecure,
+www.angolatelecom.ao,angolatelecom.ao.,0,-1,204.61.216.113#53(ao03.dns.pt),DelegationInsecure,"ao to angolatelecom.ao: The following NS name(s) were found in the authoritative NS RRset, but not in the delegation NS RRset (i.e., in the ao zone): dns1.angolatelecom.ao, dns2.angolatelecom.ao                                                                                                                                                                                                                                                   ao to angolatelecom.ao: The following NS name(s) were found in the delegation NS RRset (i.e., in the ao zone), but not in the authoritative NS RRset: dns1.angolatelecom.com, dns2.angolatelecom.com"
+www.angolatelecom.ao,www.angolatelecom.ao.,0,-1,41.74.250.9#53(dns2.angolatelecom.com),NO,
+www.pagina12.com.ar,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.pagina12.com.ar,ar.,1,8,192.58.128.30#53(j.root-servers.net),OK,". to ar: The following NS name(s) were found in the authoritative NS RRset, but not in the delegation NS RRset (i.e., in the . zone): d.dns.ar, f.dns.ar"
+www.pagina12.com.ar,7HQTF6HDVVGCVBAVH3V8E0GUM8VAKO81.com.ar.,1,8,200.108.147.50#53(b.dns.ar),DelegationInsecure,
+www.pagina12.com.ar,www.pagina12.com.ar.,0,-1,173.245.59.74#53(bill.ns.cloudflare.com),NO,
+www.bna.com.ar,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.bna.com.ar,ar.,1,8,192.112.36.4#53(g.root-servers.net),OK,". to ar: The following NS name(s) were found in the authoritative NS RRset, but not in the delegation NS RRset (i.e., in the . zone): d.dns.ar, f.dns.ar"
+www.bna.com.ar,7HQTF6HDVVGCVBAVH3V8E0GUM8VAKO81.com.ar.,1,8,200.108.147.50#53(b.dns.ar),DelegationInsecure,
+www.bna.com.ar,www.bna.com.ar.,0,-1,200.41.187.197#53(ns2.bna.com.ar),DelegationInsecure,"bna.com.ar to www.bna.com.ar: The following NS name(s) were found in the delegation NS RRset (i.e., in the bna.com.ar zone), but not in the authoritative NS RRset: gss1.advance.com.ar, gss2.advance.com.ar"
+www.bna.com.ar,www.bna.com.ar.,0,-1,200.5.235.15#53(gss1.advance.com.ar),Error,"www.bna.com.ar zone: The server(s) were not responsive to queries over TCP. (200.5.235.15, 200.70.11.4)                                                                                                                www.bna.com.ar/A: The response had an invalid RCODE (FORMERR) until EDNS was disabled. (200.5.235.15, 200.70.11.4, UDP_-_EDNS0_4096_D_K)"
+www.tn.com.ar,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.tn.com.ar,ar.,1,8,192.112.36.4#53(g.root-servers.net),OK,". to ar: The following NS name(s) were found in the authoritative NS RRset, but not in the delegation NS RRset (i.e., in the . zone): d.dns.ar, f.dns.ar"
+www.tn.com.ar,7HQTF6HDVVGCVBAVH3V8E0GUM8VAKO81.com.ar.,1,8,200.108.147.50#53(b.dns.ar),DelegationInsecure,
+www.tn.com.ar,www.tn.com.ar.,0,-1,173.245.58.131#53(lisa.ns.cloudflare.com),NO,
+www.list.am,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.list.am,am.,1,8,198.41.0.4#53(a.root-servers.net),OK,
+www.list.am,U1H2GBG17OSQOOS8QNUSGB8QK8M11NQ0.am.,1,7,195.43.75.53#53(ns-pri.nic.am),OK,
+www.list.am,www.list.am.,1,13,173.245.59.146#53(todd.ns.cloudflare.com),OK,
+www.news.am,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.news.am,am.,1,8,198.41.0.4#53(a.root-servers.net),OK,
+www.news.am,HJA3313I603T4S14TFENAK7M0OSM1EIV.am.,1,7,77.72.229.254#53(fork.sth.dnsnode.net),Error,"am zone: The server(s) were not responsive to queries over UDP. (194.0.1.26, 2001:678:4::1a)"
+www.news.am,www.news.am.,0,-1,173.245.59.102#53(art.ns.cloudflare.com),NO,
+www.dasaran.am,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.dasaran.am,am.,1,8,202.12.27.33#53(m.root-servers.net),OK,
+www.dasaran.am,U1H2GBG17OSQOOS8QNUSGB8QK8M11NQ0.am.,1,7,77.72.229.254#53(fork.sth.dnsnode.net),Error,"am zone: The server(s) were not responsive to queries over UDP. (194.0.1.26, 2001:678:4::1a)"
+www.dasaran.am,www.dasaran.am.,0,-1,173.245.58.155#53(emily.ns.cloudflare.com),NO,
+www.abc.net.au,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.abc.net.au,au.,1,8,192.112.36.4#53(g.root-servers.net),Error,". to au: No valid RRSIGs made by a key corresponding to a DS RR were found covering the DNSKEY RRset, resulting in no secure entry point (SEP) into the zone. (2400:cb00:2049:1::a29f:18b3, TCP_-_NOEDNS_)
+. to au: The DS RRset for the zone included algorithm 8 (RSASHA256), but no DS RR matched a DNSKEY with algorithm 8 that signs the zone's DNSKEY RRset. (2400:cb00:2049:1::a29f:18b3, TCP_-_NOEDNS_) au/DNSKEY (alg 8, id 20647): DNSSEC was effectively downgraded because the response had an invalid RCODE (SERVFAIL) with EDNS enabled. (2400:cb00:2049:1::a29f:18b3, TCP_-_NOEDNS_)
+au/DNSKEY (alg 8, id 20647): The response had an invalid RCODE (SERVFAIL) until EDNS was disabled. (2400:cb00:2049:1::a29f:18b3, UDP_-_EDNS0_4096_D_K) au/DNSKEY (alg 8, id 49545): DNSSEC was effectively downgraded because the response had an invalid RCODE (SERVFAIL) with EDNS enabled. (2400:cb00:2049:1::a29f:18b3, TCP_-_NOEDNS_) au/DNSKEY (alg 8, id 49545): The response had an invalid RCODE (SERVFAIL) until EDNS was disabled.  (2400:cb00:2049:1::a29f:18b3, UDP_-_EDNS0_4096_D_K)
+au/DNSKEY (alg 8, id 5725): DNSSEC was effectively downgraded because the response had an invalid RCODE (SERVFAIL) with EDNS enabled. (2400:cb00:2049:1::a29f:18b3, TCP_-_NOEDNS_)
+au/DNSKEY (alg 8, id 5725): The response had an invalid RCODE (SERVFAIL) until EDNS was disabled. (2400:cb00:2049:1::a29f:18b3, UDP_-_EDNS0_4096_D_K) au/DNSKEY: The response had an invalid RCODE (SERVFAIL). (162.159.24.179, 162.159.25.38, 2400:cb00:2049:1::a29f:18b3, 2400:cb00:2049:1::a29f:1926, UDP_-_EDNS0_512_D_K, UDP_-_NOEDNS_) net.au/DS: The response had an invalid RCODE (SERVFAIL). (162.159.25.38,  2400:cb00:2049:1::a29f:18b3, 2400:cb00:2049:1::a29f:1926, UDP_-_NOEDNS_)"
+www.abc.net.au,net.au.,1,8,202.12.31.53#53(v.au),DelegationInsecure,"net to akamaiedge.net: Authoritative AAAA records exist for a11-192.akamaiedge.net, but there are no corresponding AAAA glue records."
+www.abc.net.au,doo4b28umrb6olmq4812u6acpmdndhsd.net.au.,1,8,65.22.199.1#53(t.au),DelegationInsecure,"net.au to abc.net.au: The following NS name(s) were found in the authoritative NS RRset, but not in the delegation NS RRset (i.e., in the net.au zone): ns1.telstra.net, ns.abc.net.au"
+www.abc.net.au,www.abc.net.au.,0,-1,95.100.174.64#53(eur3.akam.net),NO,
+www.gumtree.com.au,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.gumtree.com.au,au.,1,8,192.203.230.10#53(e.root-servers.net),Error,"au zone: The server(s) responded over UDP with a malformed response or with an invalid RCODE. (162.159.24.179, 162.159.25.38, 2400:cb00:2049:1::a29f:18b3, 2400:cb00:2049:1::a29f:1926)                                                                                                                                                        au/DNSKEY: The response had an invalid RCODE (SERVFAIL). (162.159.24.179, 162.159.25.38, 2400:cb00:2049:1::a29f:18b3, 2400:cb00:2049:1::a29f:1926, UDP_-_EDNS0_512_D_K, UDP_-_NOEDNS_)                                                                                                                                      com.au/DS: The response had an invalid RCODE (SERVFAIL). (162.159.24.179, 162.159.25.38, 2400:cb00:2049:1::a29f:18b3, 2400:cb00:2049:1::a29f:1926, UDP_-_NOEDNS_)"
+www.gumtree.com.au,25m4r5faooev6aas1v5g1lah5sh96l8j.com.au.,1,8,65.22.198.1#53(s.au),OK,
+www.gumtree.com.au,gumtree.com.au.,0,-1,204.13.250.13#53(ns2.p13.dynect.net),NO,
+www.news.com.au,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.news.com.au,au.,1,8,193.0.14.129#53(k.root-servers.net),Error,"au zone: The server(s) responded over UDP with a malformed response or with an invalid RCODE. (162.159.25.38, 2400:cb00:2049:1::a29f:18b3, 2400:cb00:2049:1::a29f:1926)                                                                                                                                                                              au/DNSKEY: The response had an invalid RCODE (SERVFAIL). (162.159.24.179, 162.159.25.38, 2400:cb00:2049:1::a29f:18b3, 2400:cb00:2049:1::a29f:1926, UDP_-_EDNS0_512_D_K, UDP_-_NOEDNS_                                                                                                                                      com.au/DS: The response had an invalid RCODE (SERVFAIL). (162.159.24.179, 162.159.25.38, 2400:cb00:2049:1::a29f:18b3, 2400:cb00:2049:1::a29f:1926, UDP_-_NOEDNS_)    "
+www.news.com.au,com.au.,1,8,202.12.31.53#53(v.au),DelegationInsecure,
+www.news.com.au,fthitdjepl57tkcejist2ra0ouc0irgd.com.au.,1,8,65.22.196.1#53(q.au),DelegationInsecure,
+www.news.com.au,www.news.com.au.,0,-1,193.108.91.24#53(ns1-24.akam.net),NO,
+www.orf.at,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.orf.at,at.,1,8,192.112.36.4#53(g.root-servers.net),Error,at zone: The server(s) were not responsive to queries over UDP. (2001:678:20::10)
+www.orf.at,q93enp1l17d4utc42a4u7mao4nj00mnu.at.,1,8,194.0.10.100#53(ns9.univie.ac.at),DelegationInsecure,"at to orf.at: Authoritative AAAA records exist for ns1.apa.at, but there are no corresponding AAAA glue records."
+www.orf.at,www.orf.at.,0,-1,194.158.133.1#53(ns1.apa.at),NO,
+www.willhaben.at,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.willhaben.at,at.,1,8,192.58.128.30#53(j.root-servers.net),DelegationInsecure,
+www.willhaben.at,c8tbl22be2hfsdqlv10dd28p1qmsld1e.at.,1,8,81.91.173.130#53(n.ns.at),Error,at zone: The server(s) were not responsive to queries over UDP. (2001:678:20::10)
+www.willhaben.at,willhaben.at.,0,-1,193.22.82.79#53(srvvie-dns03.styria.com),NO,
+www.shop-apotheke.at,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.shop-apotheke.at,at.,1,8,192.203.230.10#53(e.root-servers.net),OK,
+www.shop-apotheke.at,t6mnmi0qfqbfegq5hp4ukorhuc8inj0g.at.,1,8,78.104.144.2#53(ns1.univie.ac.at),Error,at zone: The server(s) were not responsive to queries over UDP. (2001:678:20::10)
+www.shop-apotheke.at,shop-apotheke.at.,0,-1,208.80.126.2#53(ns2.dnsmadeeasy.com),NO,
+www.tap.az,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.tap.az,az.,1,8,198.41.0.4#53(a.root-servers.net),OK,
+www.tap.az,u47q2aljeho3vhhcfvnbs1778das9fet.az.,1,8,147.28.0.39#53(rip.psg.com),DelegationInsecure,
+www.tap.az,www.tap.az.,0,-1,173.245.59.124#53(jeff.ns.cloudflare.com),NO,
+www.turbo.az,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.turbo.az,az.,1,8,198.97.190.53#53(h.root-servers.net),OK,
+www.turbo.az,gvafh77tjpf85g19l0sc2s96dadk0ta1.az.,1,8,195.47.253.13#53(az.hostmaster.ua),DelegationInsecure,
+www.turbo.az,www.turbo.az.,0,-1,173.245.59.124#53(jeff.ns.cloudflare.com),NO,
+www.oxu.az,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.oxu.az,az.,1,8,198.97.190.53#53(h.root-servers.net),OK,
+www.oxu.az,te0gp5a9h1m5j0p8ehp1kkv4pdepfmk8.az.,1,8,195.47.253.13#53(az.hostmaster.ua),DelegationInsecure,
+www.oxu.az,oxu.az.,0,-1,173.245.59.136#53(pete.ns.cloudflare.com),NO,
+www.ub.edu.bs,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.ub.edu.bs,bs.,1,8,192.58.128.30#53(j.root-servers.net),OK,
+www.ub.edu.bs,ub.edu.bs.,0,-1,204.61.216.68#53(anyns.dns.bs),DelegationInsecure,"bs to ub.edu.bs: The following NS name(s) were found in the delegation NS RRset (i.e., in the bs zone), but not in the authoritative NS RRset: dns.ub.edu.bs"
+www.ub.edu.bs,ub.edu.bs.,0,-1,65.75.64.76#53(dns2.ub.edu.bs),NO,
+www.bahamas.gov.bs,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.bahamas.gov.bs,bs.,1,8,198.97.190.53#53(h.root-servers.net),OK,
+www.bahamas.gov.bs,gov.bs.,0,-1,194.0.1.36#53(ns36.cdns.net),NO,
+www.bahamas.gov.bs,www.bahamas.gov.bs.,0,-1,24.51.119.7#53(ibgb-ext1.gov.bs),NO,
+www.cob.edu.bs,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.cob.edu.bs,bs.,1,8,192.112.36.4#53(g.root-servers.net),OK,
+www.cob.edu.bs,cob.edu.bs.,0,-1,204.61.216.4#53(anyns.pch.net),NO,"bs to cob.edu.bs: The following NS name(s) were found in the delegation NS RRset (i.e., in the bs zone), but not in the authoritative NS RRset: dns.cob.edu.bs"
+www.cob.edu.bs,cob.edu.bs.,0,-1,108.60.228.76#53(dns2.cob.edu.bs),NO,
+www.edunet.bh,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.edunet.bh,bh.,1,8,198.41.0.4#53(a.root-servers.net),DelegationInsecure,". to bh: The following NS name(s) were found in the authoritative NS RRset, but not in the delegation NS RRset (i.e., in the . zone): c.bh.centralnic-dns.com, b.bh.centralnic-dns.com, a.bh.centralnic-dns.com, d.bh.centralnic-dns.com"
+www.edunet.bh,edunet.bh.,0,-1,193.188.97.212#53(ns2.batelco.com.bh),NO,
+www.edunet.bh,www.edunet.bh.,0,-1,193.188.97.212#53(ns2.batelco.com.bh),NO,
+www.bahrain.bh,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.bahrain.bh,bh.,1,8,192.5.5.241#53(f.root-servers.net),DelegationInsecure,". to bh: The following NS name(s) were found in the authoritative NS RRset, but not in the delegation NS RRset (i.e., in the . zone): c.bh.centralnic-dns.com, b.bh.centralnic-dns.com, a.bh.centralnic-dns.com, d.bh.centralnic-dns.com"
+www.bahrain.bh,bh.,0,-1,193.188.97.197#53(ns.batelco.com.bh),NO,
+www.lmra.bh,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.lmra.bh,bh.,1,8,199.7.83.42#53(l.root-servers.net),DelegationInsecure,". to bh: The following NS name(s) were found in the authoritative NS RRset, but not in the delegation NS RRset (i.e., in the . zone): c.bh.centralnic-dns.com, b.bh.centralnic-dns.com, a.bh.centralnic-dns.com, d.bh.centralnic-dns.com"
+www.lmra.bh,lmra.bh.,0,-1,193.188.97.212#53(ns2.batelco.com.bh),NO,
+www.lmra.bh,lmra.bh.,0,-1,64.91.228.239#53(ns2.lmra.bh),NO,
+www.bb.org.bd,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.bb.org.bd,bd.,1,8,192.33.4.12#53(c.root-servers.net),Error,"bd zone: The server(s) were not responsive to queries over UDP. (2407:5000:88:4::231, 2407:5000:88:4::232, 2407:5000:88:5::3)"
+www.bb.org.bd,bb.org.bd.,0,-1,203.112.194.232#53(surma.btcl.net.bd),Error,"org.bd zone: The server(s) were not responsive to queries over UDP. (2407:5000:88:4::231, 2407:5000:88:4::232, 2407:5000:88:5::3)"
+www.bb.org.bd,bb.org.bd.,0,-1,114.130.5.39#53(ns1.vhostcloud.com),NO,
+www.xiclassadmission.gov.bd,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.xiclassadmission.gov.bd,bd.,1,8,193.0.14.129#53(k.root-servers.net),Error,"bd zone: The server(s) were not responsive to queries over UDP. (2407:5000:88:4::231, 2407:5000:88:4::232, 2407:5000:88:5::3)"
+www.xiclassadmission.gov.bd,xiclassadmission.gov.bd,0,-1,123.49.12.112#53(dns.bd),Error,"gov.bd zone: The server(s) were not responsive to queries over UDP. (2407:5000:88:4::231, 2407:5000:88:4::232, 2407:5000:88:5::3)"
+www.xiclassadmission.gov.bd,xiclassadmission.gov.bd.,0,-1,103.94.135.190#53(ns.xiclassadmission.gov.bd),Error,xiclassadmission.gov.bd zone: The following NS name(s) did not resolve to address(es): ns1.xiclassadmission.gov.bd
+www.portal.gov.bd,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.portal.gov.bd,bd.,1,8,192.203.230.10#53(e.root-servers.net),Error,"bd zone: The server(s) were not responsive to queries over UDP. (2407:5000:88:4::231, 2407:5000:88:4::232, 2407:5000:88:5::3)"
+www.portal.gov.bd,portal.gov.bd.,0,-1,203.112.194.232#53(surma.btcl.net.bd),Error,"gov.bd zone: The server(s) were not responsive to queries over UDP. (2407:5000:88:4::231, 2407:5000:88:4::232, 2407:5000:88:5::3)"
+www.portal.gov.bd,portal.gov.bd.,0,-1,114.130.54.124#53(ns2.bcc.gov.bd),NO,
+www.publicworkers.bb,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.publicworkers.bb,bb.,1,8,192.203.230.10#53(e.root-servers.net),NO,
+www.publicworkers.bb,publicworkers.bb.,0,-1,64.68.197.10#53(ns4.nic.bb),Error,"publicworkers.bb/DNSKEY: The response had an invalid RCODE (FORMERR). (68.71.44.182, UDP_-_EDNS0_512_D_K)"
+www.publicworkers.bb,www.publicworkers.bb.,0,-1,68.71.44.182#53(ns2.thewebservers.net),NO,"www.publicworkers.bb/A: The response had an invalid RCODE (FORMERR) until the COOKIE EDNS option was removed. (68.71.44.182, UDP_-_EDNS0_4096_D_K)"
+www.bra.gov.bb,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.bra.gov.bb,bb.,1,8,192.33.4.12#53(c.root-servers.net),DelegationInsecure,
+www.bra.gov.bb,bra.gov.bb.,0,-1,198.41.222.254#53(ns2.nic.bb),NO,
+www.bra.gov.bb,bra.gov.bb.,0,-1,192.235.48.66#53(ns1.telebarbados.com),NO,
+www.barbadostoday.bb,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.barbadostoday.bb,bb.,1,8,192.112.36.4#53(g.root-servers.net),DelegationInsecure,
+www.barbadostoday.bb,barbadostoday.bb.,0,-1,198.41.222.254#53(ns2.nic.bb),NO,
+www.barbadostoday.bb,barbadostoday.bb.,0,-1,97.74.102.13#53(ns25.domaincontrol.com),NO,
+www.kufar.by,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.kufar.by,by.,1,8,202.12.27.33#53(m.root-servers.net),DelegationInsecure,". to by: The following NS name(s) were found in the authoritative NS RRset, but not in the delegation NS RRset (i.e., in the . zone): dns6.tld.tutby.com"
+www.kufar.by,AGB2SAQSVT2TVE0TM3410QIUM40N3PT9.by.,1,7,93.125.30.44#53(dns2.tld.tutby.com),DelegationInsecure,
+www.kufar.by,kufar.by.,0,-1,205.251.192.59#53(ns-59.awsdns-07.com),NO,
+www.onliner.by,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.onliner.by,by.,1,8,192.5.5.241#53(f.root-servers.net),OK,". to by: The following NS name(s) were found in the authoritative NS RRset, but not in the delegation NS RRset (i.e., in the . zone): dns6.tld.tutby.com"
+www.onliner.by,MK95M30PDTH9G58849BFLDAMG7AL1KP8.by.,1,7,178.172.160.20#53(dns1.tld.tutby.com),DelegationInsecure,
+www.onliner.by,www.onliner.by.,0,-1,178.172.236.142#53(u2.hoster.by),NO,
+www.tut.by,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.tut.by,by.,1,8,199.7.83.42#53(l.root-servers.net),OK,
+www.tut.by,Q1POU16RDI4S7M5TTRGF65J56JU49NQK.by.,1,7,128.199.68.43#53(dns7.tld.tutby.com),OK,
+www.tut.by,tut.by.,1,5,178.172.236.83#53(ns2.hosterby.com),OK,
+www.kuleuven.be,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.kuleuven.be,be.,1,8,192.112.36.4#53(g.root-servers.net),OK,
+www.kuleuven.be,VPBM85V6SK45LIQ64JNFG1EGNMLOE5BU.be.,1,8,194.0.44.1#53(d.ns.dns.be),DelegationInsecure,
+www.kuleuven.be,www.kuleuven.be.,0,-1,134.58.126.5#53(dns1.kulnet.kuleuven.be),NO,
+www.2dehands.be,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.2dehands.be,be.,1,8,199.7.91.13#53(d.root-servers.net),OK,
+www.2dehands.be,2d0shqekl2llgpsrg1muadkeb6u2ran9.be.,1,8,194.0.1.10#53(x.ns.dns.be),DelegationInsecure,
+www.2dehands.be,2dehands.be.,0,-1,204.13.250.13#53(ns2.p13.dynect.net),NO,
+www.hln.be,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.hln.be,be.,1,8,198.41.0.4#53(a.root-servers.net),DelegationInsecure,"be to hln.be: The following NS name(s) were found in the authoritative NS RRset, but not in the delegation NS RRset (i.e., in the be zone): ns1-25.akam.net"
+www.hln.be,mliukt2819l4hv3js1p40bkcq0a7ltuq.be.,1,8,194.0.6.1#53(a.ns.dns.be),DelegationInsecure,
+www.hln.be,www.hln.be.,0,-1,23.74.25.64#53(eur5.akam.net),NO,
+www.moe.gov.bz,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.moe.gov.bz,bz.,1,8,192.58.128.30#53(j.root-servers.net),DelegationInsecure,
+www.moe.gov.bz,moe.gov.bz.,0,-1,199.249.124.1#53(b2.cctld.afilias-nst.org),NO,
+www.moe.gov.bz,moe.gov.bz.,0,-1,70.39.150.2#53(ns2.inmotionhosting.com),NO,
+www.galen.edu.bz,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.galen.edu.bz,bz.,1,8,192.36.148.17#53(i.root-servers.net),DelegationInsecure,
+www.galen.edu.bz,galen.edu.bz.,0,-1,199.254.61.1#53(c0.cctld.afilias-nst.info),NO,edu.bz to galen.edu.bz: The glue address(es) for pixie.ucb.edu.bz (200.32.250.250) differed from its authoritative address(es) (200.32.246.122).
+www.galen.edu.bz,galen.edu.bz.,0,-1,69.10.137.140#53(ns1.belizenic.bz),Error,galen.edu.bz zone: The server(s) were not responsive to queries over UDP. (200.32.246.122)
+www.ub.edu.bz,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.ub.edu.bz,bz.,1,8,199.7.91.13#53(d.root-servers.net),DelegationInsecure,
+www.ub.edu.bz,ub.edu.bz.,0,-1,199.254.61.1#53(c0.cctld.afilias-nst.info),NO,
+www.ub.edu.bz,ub.edu.bz.,0,-1,69.90.13.5#53(ns1.peer1.net),Error,"ub.edu.bz/DNSKEY: The response had an invalid RCODE (REFUSED). (69.10.137.140, UDP_-_EDNS0_4096_D_K, UDP_-_EDNS0_512_D_K)"
+www.tresorbenin.bj,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,". to bj: The following NS name(s) were found in the authoritative NS RRset, but not in the delegation NS RRset (i.e., in the . zone): ns2.nic.bj, pch.nic.bj, ns.cocca.fr, ns1.nic.bj"
+www.tresorbenin.bj,bj.,1,8,192.58.128.30#53(j.root-servers.net),Error,"bj to tresorbenin.bj: The server(s) for the parent zone (bj) responded with a referral instead of answering authoritatively for the DS RR type. (41.85.191.2, 154.65.31.84, UDP_-_EDNS0_4096_D_K)"
+www.tresorbenin.bj,tresorbenin.bj.,0,-1,81.91.225.1#53(nakayo.leland.bj),Error,bj zone: The server(s) were not responsive to queries over UDP. (2a03:dd40:3::93)
+www.tresorbenin.bj,www.tresorbenin.bj.,0,-1,217.160.81.4#53(ns-fr.1and1-dns.biz),NO,
+www.uac.bj,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,". to bj: The following NS name(s) were found in the authoritative NS RRset, but not in the delegation NS RRset (i.e., in the . zone): ns2.nic.bj, pch.nic.bj, ns.cocca.fr, ns1.nic.bj"
+www.uac.bj,bj.,1,8,192.58.128.30#53(j.root-servers.net),Error,"bj to uac.bj: The server(s) for the parent zone (bj) responded with a referral instead of answering authoritatively for the DS RR type. (41.85.191.2, 154.65.31.84, UDP_-_EDNS0_4096_D_K)"
+www.uac.bj,uac.bj.,0,-1,81.91.225.18#53(ns1.intnet.bj),Error,bj zone: The server(s) were not responsive to queries over UDP. (2a03:dd40:3::93)
+www.uac.bj,uac.bj.,0,-1,41.216.47.106#53(calavi.uac.bj),Error,uac.bj zone: The server(s) were not responsive to queries over UDP. (196.192.16.5)
+www.finances.bj,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,". to bj: The following NS name(s) were found in the authoritative NS RRset, but not in the delegation NS RRset (i.e., in the . zone): ns2.nic.bj, pch.nic.bj, ns.cocca.fr, ns1.nic.bj"
+www.finances.bj,bj.,1,8,192.203.230.10#53(e.root-servers.net),DelegationInsecure,". to bj: The following NS name(s) were found in the delegation NS RRset (i.e., in the . zone), but not in the authoritative NS RRset: ns1.intnet.bj, nakayo.leland.bj, bow.rain.fr, ns-bj.afrinic.net, bj.cctld.authdns.ripe.net"
+www.finances.bj,finances.bj.,0,-1,194.51.3.49#53(bow.rain.fr),Error,bj zone: The server(s) were not responsive to queries over UDP. (2a03:dd40:3::93)
+www.finances.bj,finances.bj.,0,-1,41.216.47.20#53(ns1.kanakoo.bj),NO,
+www.weather.bm,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.weather.bm,bm.,1,8,192.203.230.10#53(e.root-servers.net),OK,
+www.weather.bm,n8k5734cjftrg81kt27shg6bbl2fmkp7.bm.,1,8,199.254.62.9#53(d0.bm.afilias-nst.org),DelegationInsecure,"bm to weather.bm: The glue address(es) for ns1.ibl.bm (198.207.23.50, 199.172.192.1) differed from its authoritative address(es) (198.207.23.50)."
+www.weather.bm,www.weather.bm.,0,-1,198.207.23.50#53(ns1.ibl.bm),Error,weather.bm zone: The server(s) were not responsive to queries over UDP. (199.172.192.1)
+www.emoo.bm,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.emoo.bm,bm.,1,8,192.5.5.241#53(f.root-servers.net),DelegationInsecure,
+www.emoo.bm,5p3vqovu8an7l05ud87e9fjobhcp9bnu.bm.,1,8,199.254.62.9#53(d0.bm.afilias-nst.org),DelegationInsecure,
+www.emoo.bm,www.emoo.bm.,0,-1,209.240.40.193#53(nsd.transact.bm),NO,
+www.hsbc.bm,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.hsbc.bm,bm.,1,8,192.203.230.10#53(e.root-servers.net),OK,
+www.hsbc.bm,tc2rsnqq5hp4av487em69452efce9ss7.bm.,1,8,199.254.62.9#53(d0.bm.afilias-nst.org),DelegationInsecure,
+www.hsbc.bm,www.hsbc.bm.,0,-1,208.78.70.141#53(ns20.hsbc.net),NO,"www.hsbc.bm/A: The server responded with no OPT record, rather than with RCODE FORMERR. (203.112.92.247, 203.112.92.248, 203.112.95.247, UDP_-_EDNS0_4096_D_K)"
+www.hsbc.bm,www.hsbc.bm.,0,-1,203.112.95.247#53(skmprdgss03.hsbc.com.hk),Error,"www.hsbc.bm zone: The server(s) were not responsive to queries over TCP. (203.112.92.247, 203.112.92.248, 203.112.95.247)"
+www.bpc.bt,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.bpc.bt,bt.,1,8,199.9.14.201#53(b.root-servers.net),OK,
+www.bpc.bt,bpc.bt.,1,8,156.106.192.121#53(ns.itu.ch),DelegationInsecure,"bt to bpc.bt: The following NS name(s) were found in the delegation NS RRset (i.e., in the bt zone), but not in the authoritative NS RRset: ns1.druknet.bt, ns2.druknet.bt"
+www.bpc.bt,bpc.bt.,0,-1,202.144.128.210#53(ns2.druknet.bt),Error,bpc.bt zone: The server(s) were not responsive to queries over UDP. (119.2.120.112)
+www.myrbpems.bt,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.myrbpems.bt,bt.,1,8,198.41.0.4#53(a.root-servers.net),OK,
+www.myrbpems.bt,myrbpems.bt.,1,8,128.223.32.35#53(phloem.uoregon.edu),DelegationInsecure,bt to myrbpems.bt: The glue address(es) for ns2.neyduetewa.gov.bt (103.78.117.5) differed from its authoritative address(es) (103.78.117.6).
+www.myrbpems.bt,myrbpems.bt.,0,-1,103.78.117.5#53(ns1.neyduetewa.gov.bt),NO,
+www.bbs.bt,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.bbs.bt,bt.,1,8,193.0.14.129#53(k.root-servers.net),DelegationInsecure,
+www.bbs.bt,bbs.bt.,0,-1,202.144.128.210#53(ns2.druknet.bt),NO,
+www.paginasiete.bo,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.paginasiete.bo,bo.,1,8,193.0.14.129#53(k.root-servers.net),DelegationInsecure,
+www.paginasiete.bo,paginasiete.bo.,0,-1,166.114.1.40#53(ns.nic.bo),NO,
+www.paginasiete.bo,www.paginasiete.bo.,0,-1,173.245.59.101#53(andy.ns.cloudflare.com),NO,
+www.eldeber.com.bo,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.eldeber.com.bo,bo.,1,8,199.7.91.13#53(d.root-servers.net),DelegationInsecure,
+www.eldeber.com.bo,eldeber.com.BO.,0,-1,200.160.0.5#53(ns.dns.br),NO,
+www.eldeber.com.bo,eldeber.com.bo.,0,-1,205.251.193.90#53(ns-346.awsdns-43.com),NO,
+www.trabajopolis.bo,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.trabajopolis.bo,bo.,1,8,199.7.91.13#53(d.root-servers.net),DelegationInsecure,
+www.trabajopolis.bo,trabajopolis.bo.,0,-1,166.114.1.40#53(ns.nic.bo),NO,
+www.trabajopolis.bo,www.trabajopolis.bo.,0,-1,173.245.59.165#53(evan.ns.cloudflare.com),NO,
+www.expresstabloid.ba,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.expresstabloid.ba,ba.,1,8,192.5.5.241#53(f.root-servers.net),DelegationInsecure,
+www.expresstabloid.ba,expresstabloid.ba.,0,-1,195.130.35.5#53(ns.ba),NO,
+www.expresstabloid.ba,www.expresstabloid.ba.,0,-1,173.245.59.128#53(kip.ns.cloudflare.com),NO,
+www.avaz.ba,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.avaz.ba,ba.,1,8,199.9.14.201#53(b.root-servers.net),DelegationInsecure,
+www.avaz.ba,avaz.ba.,0,-1,195.130.35.3#53(sava.utic.net.ba),NO,
+www.avaz.ba,www.avaz.ba.,0,-1,173.245.58.129#53(leah.ns.cloudflare.com),NO,
+www.klix.ba,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.klix.ba,ba.,1,8,199.7.91.13#53(d.root-servers.net),DelegationInsecure,
+www.klix.ba,klix.ba.,0,-1,195.130.35.3#53(sava.utic.net.ba),NO,
+www.klix.ba,www.klix.ba.,0,-1,173.245.59.126#53(josh.ns.cloudflare.com),NO,
+www.ac.bw,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.ac.bw,bw.,1,8,199.9.14.201#53(b.root-servers.net),OK,
+www.ac.bw,flm3epf0eb1m18p257khs7ree3pvreqd.ac.bw.,1,8,168.167.168.37#53(master.btc.net.bw),OK,
+www.fnbbotswana.co.bw,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.fnbbotswana.co.bw,bw.,1,8,199.9.14.201#53(b.root-servers.net),DelegationInsecure,
+www.fnbbotswana.co.bw,fnbbotswana.co.bw.,0,-1,196.216.168.72#53(ns-bw.afrinic.net),NO,
+www.fnbbotswana.co.bw,www.fnbbotswana.co.bw.,0,-1,41.183.219.1#53(ns01.fnbconnect.co.za),NO,
+www.ub.bw,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.ub.bw,bw.,1,8,199.9.14.201#53(b.root-servers.net),OK,
+www.ub.bw,00cjcn0jocuivfd1cen20jp90h48au6p.bw.,1,8,196.216.168.72#53(ns-bw.afrinic.net),DelegationInsecure,"bw to ub.bw: Authoritative AAAA records exist for ns1.ub.bw, but there are no corresponding AAAA glue records."
+www.ub.bw,ub.bw.,0,-1,196.2.2.230#53(ns1.ub.bw),Error,"ub.bw zone: The server(s) were not responsive to queries over UDP. (2001:43f8:2a0::230, 2001:43f8:2a0::231, 2001:43f8:2a0:4::18)"
+www.caixa.gov.br,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.caixa.gov.br,br.,1,8,192.58.128.30#53(j.root-servers.net),OK,
+www.caixa.gov.br,caixa.gov.br.,1,13,200.219.154.10#53(d.dns.br),DelegationInsecure,
+www.caixa.gov.br,www.caixa.gov.br.,0,-1,200.201.161.22#53(polar.caixa.gov.br),NO,"caixa.gov.br to www.caixa.gov.br: The following NS name(s) were found in the delegation NS RRset (i.e., in the caixa.gov.br zone), but not in the authoritative NS RRset: gslb2.caixa.gov.br"
+www.caixa.gov.br,www.caixa.gov.br.,0,-1,200.201.171.26#53(gslb2.caixa.gov.br),NO,"www.caixa.gov.br/A: The server responded with no OPT record, rather than with RCODE FORMERR. (200.201.171.26, 200.201.172.26, UDP_-_EDNS0_4096_D_K)"
+www.otvfoco.com.br,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.otvfoco.com.br,br.,1,8,192.36.148.17#53(i.root-servers.net),OK,
+www.otvfoco.com.br,0f20vj7gb060kn5u4qaqtoj7sckm4lta.com.br.,1,13,200.160.0.10#53(a.dns.br),DelegationInsecure,
+www.otvfoco.com.br,www.otvfoco.com.br.,0,-1,173.245.59.95#53(dale.ns.cloudflare.com),NO,
+www.uol.com.br,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.uol.com.br,br.,1,8,198.41.0.4#53(a.root-servers.net),OK,
+www.uol.com.br,g0hctfa5ju80dhi383254t3oh6i0301i.com.br.,1,13,200.160.0.10#53(a.dns.br),DelegationInsecure,
+www.uol.com.br,www.uol.com.br.,0,-1,200.147.255.105#53(borges.uol.com.br),NO,
+www.ubd.edu.bn,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.ubd.edu.bn,bn.,1,8,199.7.83.42#53(l.root-servers.net),Error,"bn to edu.bn: An SOA RR with owner name (edu.bn) not matching the zone name (bn) was returned with the NODATA response. (194.0.1.33, UDP_-_EDNS0_4096_D_K)"
+www.ubd.edu.bn,ubd.edu.bn.,0,-1,204.61.216.87#53(bn-ns.anycast.pch.net),NO,"edu.bn to ubd.edu.bn: The following NS name(s) were found in the delegation NS RRset (i.e., in the edu.bn zone), but not in the authoritative NS RRset: dns2.ubd.edu.bn"
+www.ubd.edu.bn,ubd.edu.bn.,0,-1,202.160.7.50#53(dns1.ubd.edu.bn),NO,
+www.nam.gov.bn,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.nam.gov.bn,bn.,1,8,192.58.128.30#53(j.root-servers.net),Error,"bn to gov.bn: An SOA RR with owner name (gov.bn) not matching the zone name (bn) was returned with the NODATA response. (194.0.1.33, UDP_-_EDNS0_4096_D_K)"
+www.nam.gov.bn,nam.gov.bn.,0,-1,194.0.1.33#53(ns1.bnnic.bn),NO,
+www.nam.gov.bn,www.nam.gov.bn.,0,-1,61.6.254.201#53(pt01.brunet.bn),NO,
+www.webmail.gov.bn,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.webmail.gov.bn,bn.,1,8,199.7.83.42#53(l.root-servers.net),DelegationInsecure,
+www.webmail.gov.bn,webmail.gov.bn.,0,-1,202.12.31.53#53(ns4.apnic.net),Error,"bn to gov.bn: An SOA RR with owner name (gov.bn) not matching the zone name (bn) was returned with the NODATA response. (194.0.1.33, UDP_-_EDNS0_4096_D_K)"
+www.webmail.gov.bn,webmail.gov.bn.,0,-1,61.6.254.201#53(pt01.brunet.bn),NO,
+www.sinoptik.bg,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.sinoptik.bg,bg.,1,5,199.7.91.13#53(d.root-servers.net),OK,
+www.sinoptik.bg,sinoptik.bg.,1,5,185.143.80.1#53(ns5.register.bg),Error,"bg zone: The server(s) were not responsive to queries over UDP. (2001:678:3c::1, 2a02:6a80::192:92:129:99, 2a02:6a80::193:68:3:232, 2a02:6a80::193:68:21:71, 2a02:6a80::193:68:99:99)"
+www.sinoptik.bg,sinoptik.bg.,0,-1,194.153.145.66#53(ns.netinfo.bg),Error,sinoptik.bg zone: The server(s) were not responsive to queries over UDP. (2a01:8740:ffff:ffe9::5)
+www.shkolo.bg,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.shkolo.bg,bg.,1,5,199.7.83.42#53(l.root-servers.net),OK,
+www.shkolo.bg,shkolo.bg.,1,5,192.92.129.99#53(ns.register.bg),Error,"bg zone: The server(s) were not responsive to queries over UDP. (2001:678:3c::1, 2a02:6a80::192:92:129:99, 2a02:6a80::193:68:3:232, 2a02:6a80::193:68:21:71, 2a02:6a80::193:68:99:99)"
+www.shkolo.bg,shkolo.bg.,0,-1,62.75.216.213#53(redirns2.bgdns.net),No,
+www.abv.bg,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.abv.bg,bg.,1,5,192.5.5.241#53(f.root-servers.net),OK,
+www.abv.bg,abv.bg.,1,5,193.68.3.232#53(ns2.register.bg),Error,"bg zone: The server(s) were not responsive to queries over UDP. (2001:678:3c::1, 2a02:6a80::192:92:129:99, 2a02:6a80::193:68:3:232, 2a02:6a80::193:68:21:71, 2a02:6a80::193:68:99:99)"
+www.abv.bg,abv.bg.,0,-1,87.120.176.11#53(ns2.netinfo.bg),Error,abv.bg zone: The server(s) were not responsive to queries over UDP. (2a01:8740:ffff:ffe9::5)
+www.lonab.bf,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.lonab.bf,bf.,1,8,192.33.4.12#53(c.root-servers.net),DelegationInsecure,
+www.lonab.bf,lonab.bf.,0,-1,196.216.168.34#53(ns-bf.afrinic.net),NO,
+www.lonab.bf,lonab.bf.,0,-1,206.82.130.198#53(ns.fasonet.bf),NO,
+www.contacts.bf,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.contacts.bf,bf.,1,8,192.112.36.4#53(g.root-servers.net),DelegationInsecure,
+www.contacts.bf,contacts.bf.,0,-1,196.216.168.34#53(ns-bf.afrinic.net),NO,"bf to contacts.bf: The following NS name(s) were found in the authoritative NS RRset, but not in the delegation NS RRset (i.e., in the bf zone): ns1.hosting24.com, ns2.hosting24.com"
+www.contacts.bf,contacts.bf.,0,-1,31.220.105.162#53(ns40.boxsecured.com),Error,"contacts.bf/DNSKEY: The response had an invalid RCODE (REFUSED). (153.92.2.3, 153.92.2.4, UDP_-_EDNS0_4096_D_K, UDP_-_EDNS0_512_D_K)"
+www.onef.gov.bf,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.onef.gov.bf,bf.,1,8,192.112.36.4#53(g.root-servers.net),DelegationInsecure,
+www.onef.gov.bf,gov.bf.,0,-1,91.203.32.147#53(censvrns0001.ird.fr),NO,
+www.onef.gov.bf,gov.bf.,0,-1,196.13.207.10#53(oubri.gov.bf),Error,gov.bf zone: The server(s) were not responsive to queries over UDP. (212.52.129.71)
+www.snis.bi,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.snis.bi,bi.,1,8,192.203.230.10#53(e.root-servers.net),DelegationInsecure,
+www.snis.bi,snis.bi.,0,-1,196.216.168.23#53(ns-bi.afrinic.net),NO,
+www.snis.bi,snis.bi.,0,-1,178.238.236.196#53(ns1.afriregister.co.ke),NO,
+www.esoko.bi,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.esoko.bi,bi.,1,8,198.41.0.4#53(a.root-servers.net),DelegationInsecure,
+www.esoko.bi,esoko.bi.,0,-1,196.216.168.23#53(ns-bi.afrinic.net),NO,
+www.esoko.bi,www.esoko.bi.,0,-1,93.104.214.98#53(ns2.afriregister.co.ke),NO,
+www.burundijobs.bi,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.burundijobs.bi,bi.,1,8,199.7.91.13#53(d.root-servers.net),DelegationInsecure,
+www.burundijobs.bi,burundijobs.bi.,0,-1,204.61.216.61#53(anyns.nic.bi),NO,
+www.burundijobs.bi,burundijobs.bi.,0,-1,80.241.213.244#53(ns3.afriregister.com),NO,
+www.sabay.com.kh,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.sabay.com.kh,kh.,1,8,199.9.14.201#53(b.root-servers.net),DelegationInsecure,
+www.sabay.com.kh,sabay.com.kh.,0,-1,203.223.32.21#53(ns1.dns.net.kh),NO,
+www.sabay.com.kh,www.sabay.com.kh.,0,-1,118.67.200.10#53(ns1.sabay.com.kh),NO,
+www.kohsantepheapdaily.com.kh,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.kohsantepheapdaily.com.kh,kh.,1,8,192.112.36.4#53(g.root-servers.net),DelegationInsecure,
+www.kohsantepheapdaily.com.kh,kohsantepheapdaily.com.kh.,0,-1,203.189.128.1#53(dns1.online.com.kh),NO,
+www.kohsantepheapdaily.com.kh,www.kohsantepheapdaily.com.kh.,0,-1,173.245.59.41#53(ns2.digitalocean.com),NO,
+www.popular.com.kh,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.popular.com.kh,kh.,1,8,198.97.190.53#53(h.root-servers.net),DelegationInsecure,
+www.popular.com.kh,popular.com.kh.,0,-1,202.12.31.53#53(ns4.apnic.net),NO,
+www.popular.com.kh,www.popular.com.kh.,0,-1,198.41.222.173#53(ns3.digitalocean.com),Error,"www.popular.com.kh/A: The response had an invalid RCODE (SERVFAIL). (173.245.58.51, UDP_-_NOEDNS_)"
+www.premierbet.cm,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.premierbet.cm,cm.,0,-1,199.7.91.13#53(d.root-servers.net),Error,"cm zone: There was an error resolving the following NS name(s) to address(es): benoue.camnet.cm, kim.camnet.cm, lom.camnet.cm, mbam.camnet.cm, sanaga.camnet.cm"
+www.premierbet.cm,premierbet.cm.,0,-1,156.106.192.121#53(ns.itu.ch),Error,"cm to premierbet.cm: The server(s) for the parent zone (cm) responded with a referral instead of answering authoritatively for the DS RR type. (195.24.192.34, UDP_-_EDNS0_4096_D_K)"
+www.premierbet.cm,www.premierbet.cm.,0,-1,173.245.59.158#53(donald.ns.cloudflare.com),NO,
+www.1xbet.cm,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.1xbet.cm,cm.,0,-1,199.7.83.42#53(l.root-servers.net),Error,"cm zone: There was an error resolving the following NS name(s) to address(es): benoue.camnet.cm, kim.camnet.cm, lom.camnet.cm, mbam.camnet.cm, sanaga.camnet.cm"
+www.1xbet.cm,1xbet.cm.,0,-1,195.24.192.35#53(kim.camnet.cm),Error,"cm to 1xbet.cm: The server(s) for the parent zone (cm) responded with a referral instead of answering authoritatively for the DS RR type. (195.24.192.34, UDP_-_EDNS0_4096_D_K)"
+www.1xbet.cm,173.245.58.90#53(daisy.ns.cloudflare.com),0,-1,173.245.58.90#53(daisy.ns.cloudflare.com),NO,
+www.jumia.cm,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.jumia.cm,cm.,0,-1,192.5.5.241#53(f.root-servers.net),Error,"cm zone: There was an error resolving the following NS name(s) to address(es): benoue.camnet.cm, kim.camnet.cm, lom.camnet.cm, mbam.camnet.cm, sanaga.camnet.cm"
+www.jumia.cm,jumia.cm.,0,-1,156.106.192.121#53(ns.itu.ch),Error,"cm to jumia.cm: The server(s) for the parent zone (cm) responded with a referral instead of answering authoritatively for the DS RR type. (195.24.192.34, UDP_-_EDNS0_4096_D_K)"
+www.jumia.cm,jumia.cm.,0,-1,205.251.192.198#53(ns-198.awsdns-24.com),NO,
+www.canada.ca,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.canada.ca,ca.,1,8,199.7.91.13#53(d.root-servers.net),DelegationInsecure,
+www.canada.ca,plt7hlnbjokjsmr9s2pdckkee9f1ik1o.ca.,1,8,199.253.250.68#53(x.ca-servers.ca),DelegationInsecure,
+www.canada.ca,www.canada.ca.,0,-1,198.103.167.11#53(xns-kedc-1.ssc-spc.gc.ca),Error,"canada.ca zone: The server(s) were not responsive to queries over UDP. (2604:8400:0:161::100, 2604:8400:0:161::200)"
+www.kijiji.ca,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.kijiji.ca,ca.,1,8,202.12.27.33#53(m.root-servers.net),OK,
+www.kijiji.ca,g7aq62gv5l1kse8fi6abarddit2oi7h7.ca.,1,8,198.182.167.1#53(j.ca-servers.ca),DelegationInsecure,
+www.kijiji.ca,kijiji.ca.,0,-1,204.13.250.13#53(ns2.p13.dynect.net),NO,
+www.cbc.ca,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.cbc.ca,ca.,1,8,202.12.27.33#53(m.root-servers.net),OK,
+www.cbc.ca,vl75tdee8t5i5ortmvrj84tg4crst9op.ca.,1,8,185.159.196.2#53(c.ca-servers.ca),DelegationInsecure,
+www.cbc.ca,www.cbc.ca.,0,-1,95.100.168.65#53(a5-65.akam.net),NO,
+www.bca.cv,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.bca.cv,cv.,1,8,192.36.148.17#53(i.root-servers.net),DelegationInsecure,
+www.bca.cv,bca.cv.,0,-1,192.5.4.1#53(sns-pb.isc.org),NO,"cv to bca.cv: The following NS name(s) were found in the authoritative NS RRset, but not in the delegation NS RRset (i.e., in the cv zone): ns2.bca.cv"
+www.bca.cv,None,0,-1,41.221.194.68#53(ns.bca.cv),Error,bca.cv zone: The following NS name(s) resolved to IP address(es) in private IP address space: ns2.bca.cv
+www.sapo.cv,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.sapo.cv,cv.,1,8,199.7.91.13#53(d.root-servers.net),DelegationInsecure,
+www.sapo.cv,sapo.cv.,0,-1,41.221.192.220#53(ns.dns.cv),NO,
+www.sapo.cv,sapo.cv.,0,-1,212.55.154.202#53(ns.sapo.pt),NO,"www.sapo.cv/A: The server responded with no OPT record, rather than with RCODE FORMERR. (212.55.154.194, 212.55.154.202, UDP_-_EDNS0_4096_D_K)"
+www.gov.cv,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.gov.cv,cv.,1,8,198.41.0.4#53(a.root-servers.net),OK,
+www.gov.cv,gov.cv.,0,-1,204.61.216.105#53(c.dns.pt),NO,
+www.gov.cv,gov.cv.,0,-1,41.221.194.234#53(ns2.gov.cv),NO,
+www.bancoestado.cl,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.bancoestado.cl,cl.,1,8,192.36.148.17#53(i.root-servers.net),OK,
+www.bancoestado.cl,IM53VUNKGB0R89Q2BO18AU2BG52BG1U4.cl.,1,8,185.159.198.56#53(cl2-tld.d-zone.ca),DelegationInsecure,"cl to bancoestado.cl: The following NS name(s) were found in the authoritative NS RRset, but not in the delegation NS RRset (i.e., in the cl zone): bancoestado.cl, ns1.bancoestado.cl, ns3.bancoestado.cl"
+www.bancoestado.cl,www.bancoestado.cl.,0,-1,162.159.25.104#53(ns5.bancoestado.cl),NO,
+www.biobiochile.cl,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.biobiochile.cl,cl.,1,8,198.41.0.4#53(a.root-servers.net),OK,
+www.biobiochile.cl,6g5jb5cqrmcpqk7kqabo83jcrpqg1gi7.cl.,1,8,200.16.112.16#53(c.nic.cl),DelegationInsecure,
+www.biobiochile.cl,biobiochile.cl.,0,-1,209.59.175.215#53(adns.digitalproserver.com),NO,
+www.mercadolibre.cl,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.mercadolibre.cl,cl.,1,8,199.7.91.13#53(d.root-servers.net),OK,
+www.mercadolibre.cl,2TCKF2DAE4PC9BKKE76BQQ5LLDLPLMSM.cl.,1,8,204.61.216.30#53(cl-ns.anycast.pch.net),DelegationInsecure,
+www.mercadolibre.cl,mercadolibre.cl.,0,-1,205.251.194.242#53(ns-754.awsdns-30.net),NO,
+www.gmw.cn,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.gmw.cn,cn.,1,8,202.12.27.33#53(m.root-servers.net),OK,
+www.gmw.cn,1DCG2CNK37F0VFVT48IGFVA06V76RQ13.cn.,1,8,202.112.0.44#53(ns.cernet.net),Error,cn zone: The server(s) were not responsive to queries over UDP. (203.119.27.1)
+www.gmw.cn,www.gmw.cn.,0,-1,42.62.2.24#53(cns1.zdnscloud.net),NO,
+www.360.cn,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.360.cn,cn.,1,8,192.36.148.17#53(i.root-servers.net),OK,"cn/DNSKEY (alg 8, id 31725): No response was received until the UDP payload size was decreased, indicating that the server might be attempting to send a payload that exceeds the path maximum transmission unit (PMTU) size. (66.198.183.65, UDP_-_EDNS0_4096_D_K)"
+www.360.cn,UBP3QUHBB5QN6EH3UP2MKEDE09N5G3AS.cn.,1,8,203.119.25.1#53(a.dns.cn),Error,cn zone: The server(s) were not responsive to queries over UDP. (203.119.27.1)
+www.360.cn,360.cn.,0,-1,42.236.105.6#53(dns8.360safe.com),NO,"www.360.cn/A: No response was received until the UDP payload size was decreased, indicating that the server might be attempting to send a payload that exceeds the path maximum transmission unit (PMTU) size. (42.236.105.6, UDP_-_EDNS0_4096_D_K)"
+www.sina.com.cn,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.sina.com.cn,cn.,1,8,192.36.148.17#53(i.root-servers.net),OK,
+www.sina.com.cn,TDU124P7EGELLSS91RPV7H8S4DKOE2EH.com.cn.,1,8,203.119.29.1#53(e.dns.cn),Error,cn zone: The server(s) were not responsive to queries over UDP. (203.119.27.1)
+www.sina.com.cn,www.sina.com.cn.,0,-1,180.149.138.199#53(ns2.sina.com.cn),NO,
+www.senasofiaplus.edu.co,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.senasofiaplus.edu.co,co.,1,8,192.5.5.241#53(f.root-servers.net),OK,
+www.senasofiaplus.edu.co,4bmjgg9o9r7cvb9al7cp9uj0ch601fm5.co.,1,8,156.154.100.25#53(ns1.cctld.co),DelegationInsecure,
+www.senasofiaplus.edu.co,www.senasofiaplus.edu.co.,0,-1,190.145.161.167#53(ns3.senasofiaplus.edu.co),NO,
+www.wplay.co,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.wplay.co,co.,1,8,193.0.14.129#53(k.root-servers.net),OK,
+www.wplay.co,jv9l1rk47k52bqj1e3o90qpoh3i9jeue.co.,1,8,156.154.105.25#53(ns6.cctld.co),DelegationInsecure,
+www.wplay.co,www.wplay.co.,0,-1,173.245.59.228#53(rodney.ns.cloudflare.com),NO,
+www.las2orillas.co,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.las2orillas.co,co.,1,8,192.5.5.241#53(f.root-servers.net),OK,
+www.las2orillas.co,rjj64k05hfp334mq3dp56fr6dpcticgg.co.,1,8,156.154.105.25#53(ns6.cctld.co),DelegationInsecure,
+www.las2orillas.co,www.las2orillas.co.,0,-1,173.245.59.115#53(greg.ns.cloudflare.com),NO,
+www.nic.cg,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.nic.cg,cg.,1,8,192.112.36.4#53(g.root-servers.net),DelegationInsecure,
+www.nic.cg,www.nic.cg.,0,-1,192.36.125.2#53(sunic.sunet.se),NO,
+www.emploi.cg,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.emploi.cg,cg.,1,8,198.41.0.4#53(a.root-servers.net),DelegationInsecure,
+www.emploi.cg,emploi.cg.,0,-1,151.80.35.161#53(dns-fr.dnsafrica.net),NO,
+www.emploi.cg,emploi.cg.,0,-1,213.251.128.139#53(ns19.ovh.net),NO,
+www.premierbet.cg,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.premierbet.cg,cg.,1,8,192.58.128.30#53(j.root-servers.net),DelegationInsecure,
+www.premierbet.cg,premierbet.cg.,0,-1,41.185.30.170#53(dns-za.dnsafrica.net),NO,
+www.premierbet.cg,www.premierbet.cg.,0,-1,173.245.58.178#53(karina.ns.cloudflare.com),NO,
+www.bnonline.fi.cr,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.bnonline.fi.cr,cr.,1,8,199.9.14.201#53(b.root-servers.net),OK,
+www.bnonline.fi.cr,bnonline.fi.cr.,1,8,194.0.11.107#53(de.nic.cr),OK,
+www.bnonline.fi.cr,www.bnonline.fi.cr,0,-1,201.220.29.151#53(ns2.bncr.fi.cr),Error,"www.bnonline.fi.cr/A: DNSSEC was effectively downgraded because the response had an invalid RCODE (FORMERR) with EDNS enabled. (201.220.29.22, 201.220.29.151, UDP_-_EDNS0_4096_D)"
+www.ucr.ac.cr,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.ucr.ac.cr,cr.,1,8,193.0.14.129#53(k.root-servers.net),OK,
+www.ucr.ac.cr,C4LISI085G7I6T6NV97NJLM8DRHQ38G7.ac.cr.,1,8,200.1.123.14#53(ns-ext.nic.cl),DelegationInsecure,
+www.ucr.ac.cr,ucr.ac.cr.,0,-1,198.57.204.98#53(secundario.nic.cr),NO,
+www.elmundo.cr,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.elmundo.cr,cr.,1,8,199.7.91.13#53(d.root-servers.net),OK,
+www.elmundo.cr,S16PMN0I1COV1E0DCF9VH3JCU74E0I2H.cr.,1,8,200.33.111.1#53(ns3.nic.mx),DelegationInsecure,
+www.elmundo.cr,www.elmundo.cr.,0,-1,173.245.59.131#53(matt.ns.cloudflare.com),NO,
+www.educarriere.ci,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.educarriere.ci,ci.,1,8,199.9.14.201#53(b.root-servers.net),DelegationInsecure,
+www.educarriere.ci,educarriere.ci.,0,-1,91.203.32.147#53(censvrns0001.ird.fr),NO,
+www.educarriere.ci,www.educarriere.ci.,0,-1,46.182.5.75#53(dns1.hosteur.com),NO,
+www.fonctionpublique.gouv.ci,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.fonctionpublique.gouv.ci,ci.,1,8,199.9.14.201#53(b.root-servers.net),DelegationInsecure,
+www.fonctionpublique.gouv.ci,gouv.ci.,0,-1,199.9.14.201#53(b.root-servers.net),Error,"gouv.ci to fonctionpublique.gouv.ci: An SOA RR with owner name (fonctionpublique.gouv.ci) not matching the zone name (gouv.ci) was returned with the NODATA response. (164.160.41.43, UDP_-_EDNS0_4096_D_K)"
+www.fonctionpublique.gouv.ci,www.fonctionpublique.gouv.ci,0,-1,164.160.41.42#53(ns2.sndi.ci),NO,"www.fonctionpublique.gouv.ci/CNAME: The server responded with no OPT record, rather than with RCODE FORMERR. (164.160.41.43, UDP_-_EDNS0_4096_D_K)"
+www.jumia.ci,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.jumia.ci,ci.,1,8,199.9.14.201#53(b.root-servers.net),DelegationInsecure,
+www.jumia.ci,jumia.ci.,0,-1,213.136.100.81#53(ns.nic.ci),NO,
+www.jumia.ci,jumia.ci.,0,-1,205.251.192.103#53(ns-103.awsdns-12.com),NO,
+www.njuskalo.hr,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.njuskalo.hr,hr.,1,8,192.5.5.241#53(f.root-servers.net),OK,
+www.njuskalo.hr,3PBJQMTBJVD257OR7P8DMCD8VU4508A6.hr.,1,8,161.53.160.100#53(hr-ns-1.carnet.hr),DelegationInsecure,
+www.njuskalo.hr,njuskalo.hr.,0,-1,193.25.220.95#53(dns1.styria-it.hr),NO,
+www.24sata.hr,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.24sata.hr,hr.,1,8,199.7.91.13#53(d.root-servers.net),OK,
+www.24sata.hr,E5EMU3DF015VHJQHTJFA9R4U80NE7SLE.hr.,1,8,204.61.216.90#53(pch.carnet.hr),DelegationInsecure,
+www.24sata.hr,www.24sata.hr.,0,-1,173.245.59.133#53(noah.ns.cloudflare.com),NO,
+www.jutarnji.hr,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.jutarnji.hr,hr.,1,8,192.36.148.17#53(i.root-servers.net),OK,
+www.jutarnji.hr,8TELOBLC05U7CVPIAIIHNMHUNPU8KTQ9.hr.,1,8,204.61.216.90#53(pch.carnet.hr),DelegationInsecure,
+www.jutarnji.hr,www.jutarnji.hr.,0,-1,173.245.59.87#53(clark.ns.cloudflare.com),NO,
+www.etecsa.cu,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,". to cu: Authoritative AAAA records exist for ns2.ceniai.net.cu, but there are no corresponding AAAA glue records."
+www.etecsa.cu,cu.,1,8,202.12.27.33#53(m.root-servers.net),DelegationInsecure,cu to etecsa.cu: The glue address(es) for ns2.etecsa.cu (190.92.127.3) differed from its authoritative address(es) (190.92.127.6).
+www.etecsa.cu,etecsa.cu.,0,-1,169.158.128.88#53(ns2.ceniai.net.cu),Error,etecsa.cu zone: The server(s) were not responsive to queries over UDP. (190.92.127.3)
+www.etecsa.cu,etecsa.cu.,0,-1,200.55.152.131#53(ns1.etecsa.cu),NO,
+www.sld.cu,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.sld.cu,cu.,1,8,192.112.36.4#53(g.root-servers.net),Error,"cu zone: The server(s) were not responsive to queries over UDP. (2001:1340:1:64::88, 2001:1340:1:128::136)"
+www.sld.cu,sld.cu.,0,-1,169.158.128.136#53(ns.ceniai.net.cu),NO,
+www.sld.cu,red.sld.cu.,0,-1,201.220.222.131#53(ns1.sld.cu),Error,"sld.cu to red.sld.cu: No delegation NS records were detected in the parent zone (sld.cu). This results in an NXDOMAIN response to a DS query (for DNSSEC), even if the parent servers are authoritative for the child. (201.220.222.131, 201.220.222.132, UDP_-_EDNS0_4096_D_K)"
+www.cubadebate.cu,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.cubadebate.cu,cu.,1,8,199.7.83.42#53(l.root-servers.net),Error,"cu zone: The server(s) were not responsive to queries over UDP. (2001:1340:1:64::88, 2001:1340:1:128::136)"
+www.cubadebate.cu,cubadebate.cu.,0,-1,193.0.9.70#53(cu.cctld.authdns.ripe.net),Error,cubadebate.cu zone: The server(s) were not responsive to queries over UDP. (201.249.199.33)
+www.cubadebate.cu,cubadebate.cu.,0,-1,190.92.127.78#53(ns1.cubadebate.cu),NO,
+www.uts.cw,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.uts.cw,cw.,1,8,192.58.128.30#53(j.root-servers.net),DelegationInsecure,"cw to uts.cw: The following NS name(s) were found in the authoritative NS RRset, but not in the delegation NS RRset (i.e., in the cw zone): ns1.carats.net, ns2.carats.net"
+www.uts.cw,uts.cw.,0,-1,193.63.94.20#53(ns0.ja.net),Error,"uts.cw zone: The following NS name(s) did not resolve to address(es): ns1.onenet.an, ns2.onenet.an"
+www.uts.cw,uts.cw.,0,-1,216.152.162.29#53(ns2.onenet.cw),NO,
+www.gobiernu.cw,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.gobiernu.cw,cw.,1,8,193.0.14.129#53(k.root-servers.net),DelegationInsecure,
+www.gobiernu.cw,gobiernu.cw.,0,-1,128.86.1.20#53(ns0.ja.net),NO,
+www.gobiernu.cw,gobiernu.cw.,0,-1,216.152.162.30#53(ns1.onenet.cw),NO,
+www.isc.cw,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.isc.cw,cw.,1,8,193.0.14.129#53(k.root-servers.net),DelegationInsecure,
+www.isc.cw,isc.cw.,0,-1,198.93.177.21#53(ns1.uoc.cw),NO,
+www.isc.cw,isc.cw.,0,-1,185.136.97.66#53(ns2.intrcomm.net),NO,
+www.reporter.com.cy,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.reporter.com.cy,cy.,1,8,193.0.14.129#53(k.root-servers.net),DelegationInsecure,
+www.reporter.com.cy,reporter.com.cy.,0,-1,139.91.191.3#53(estia.ics.forth.gr),Error,com.cy zone: The server(s) responded over TCP with a malformed response or with an invalid RCODE. (139.91.191.3)
+www.reporter.com.cy,reporter.com.cy.,0,-1,109.110.225.60#53(ns2.dynamicdnssolutions.com),NO,
+www.gesy.org.cy,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.gesy.org.cy,cy.,1,8,199.7.83.42#53(l.root-servers.net),DelegationInsecure,"cy to org.cy: No response was received until the UDP payload size was decreased, indicating that the server might be attempting to send a payload that exceeds the path maximum transmission unit (PMTU) size. (139.91.191.3, UDP_-_EDNS0_4096_D_K)"
+www.gesy.org.cy,gesy.org.cy.,0,-1,204.70.57.242#53(ns02.savvis.net),Error,org.cy zone: The server(s) responded over TCP with a malformed response or with an invalid RCODE. (139.91.191.3)
+www.gesy.org.cy,gesy.org.cy.,0,-1,208.80.127.4#53(ns14.dnsmadeeasy.com),NO,
+www.politis.com.cy,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.politis.com.cy,cy.,1,8,199.7.91.13#53(d.root-servers.net),DelegationInsecure,
+www.politis.com.cy,politis.com.cy.,0,-1,194.42.29.1#53(cynic.dns.cy),Error,com.cy zone: The server(s) responded over TCP with a malformed response or with an invalid RCODE. (139.91.191.3)
+www.politis.com.cy,www.politis.com.cy.,0,-1,173.245.59.73#53(beau.ns.cloudflare.com),NO,
+www.novinky.cz,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.novinky.cz,cz.,1,8,192.33.4.12#53(c.root-servers.net),OK,
+www.novinky.cz,novinky.cz.,1,13,194.0.14.1#53(c.ns.nic.cz),OK,
+www.novinky.cz,www.novinky.cz.,1,13,77.75.75.230#53(ams.seznam.cz),OK,
+www.idnes.cz,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.idnes.cz,cz.,1,8,192.5.5.241#53(f.root-servers.net),OK,
+www.idnes.cz,idnes.cz.,1,13,194.0.14.1#53(c.ns.nic.cz),OK,
+www.idnes.cz,idnes.cz.,1,8,194.79.55.77#53(ns2.mafra.cz),OK,
+www.seznam.cz,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.seznam.cz,cz.,1,8,199.9.14.201#53(b.root-servers.net),OK,
+www.seznam.cz,seznam.cz.,1,13,194.0.12.1#53(a.ns.nic.cz),OK,
+www.seznam.cz,www.seznam.cz.,1,13,77.75.75.230#53(ams.seznam.cz),OK,
+www.premierbet.cd,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.premierbet.cd,cd.,1,8,192.36.148.17#53(i.root-servers.net),Error,cd zone: The server(s) were not responsive to queries over UDP. (92.222.179.91)
+www.premierbet.cd,premierbet.cd.,0,-1,196.43.1.9#53(sabela.saix.net),NO,
+www.premierbet.cd,www.premierbet.cd.,0,-1,173.245.59.158#53(donald.ns.cloudflare.com),NO,
+www.7sur7.cd,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.7sur7.cd,cd.,1,8,192.203.230.10#53(e.root-servers.net),Error,cd zone: The server(s) were not responsive to queries over UDP. (92.222.179.91)
+www.7sur7.cd,7sur7.cd.,0,-1,41.79.235.66#53(ns-root-1.scpt-network.com),NO,
+www.7sur7.cd,www.7sur7.cd.,0,-1,173.245.59.235#53(stan.ns.cloudflare.com),NO,
+www.actualite.cd,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.actualite.cd,cd.,1,8,192.203.230.10#53(e.root-servers.net),Error,cd zone: The server(s) were not responsive to queries over UDP. (92.222.179.91)
+www.actualite.cd,actualite.cd.,0,-1,196.43.1.9#53(sabela.saix.net),NO,
+www.actualite.cd,www.actualite.cd.,0,-1,173.245.59.210#53(ned.ns.cloudflare.com),NO,
+www.bt.dk,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.bt.dk,dk.,1,8,192.36.148.17#53(i.root-servers.net),OK,
+www.bt.dk,i4c4brt9kcljel96rbkjq1aurmlfhgkt.dk.,1,8,192.38.7.242#53(l.nic.dk),DelegationInsecure,
+www.bt.dk,www.bt.dk.,0,-1,37.97.199.195#53(ns2.transip.eu),NO,
+www.ekstrabladet.dk,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.ekstrabladet.dk,dk.,1,8,199.7.91.13#53(d.root-servers.net),OK,
+www.ekstrabladet.dk,7b49oktcivn17g6302ngfnn9jjldtrvv.dk.,1,8,212.88.78.122#53(a.nic.dk),DelegationInsecure,
+www.ekstrabladet.dk,www.ekstrabladet.dk,0,-1,91.214.20.146#53(ns1.rootdom.dk),Error,"ekstrabladet.dk/DNSKEY: The response had an invalid RCODE (FORMERR). (91.214.20.146, 91.214.23.26, UDP_-_EDNS0_512_D_K)"
+www.dr.dk,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.dr.dk,dk.,1,8,193.0.14.129#53(k.root-servers.net),OK,
+www.dr.dk,s2edj8hbe1hphfcgf542vbmjbadqk01i.dk.,1,8,194.0.47.42#53(p.nic.dk),DelegationInsecure,
+www.dr.dk,www.dr.dk.,0,-1,23.74.25.64#53(a26-64.akam.net),NO,
+www.edu.dj,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.edu.dj,dj.,1,8,199.7.83.42#53(l.root-servers.net),Error,dj zone: The server(s) responded over UDP with a malformed response or with an invalid RCODE. (196.201.196.41)
+www.edu.dj,edu.dj.,0,-1,197.241.17.130#53(bow1.intnet.dj),NO,
+www.edu.dj,edu.dj.,0,1,41.189.224.132#53(bow3.intnet.dj),NO,
+www.adjib.dj,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.adjib.dj,dj.,1,8,199.9.14.201#53(b.root-servers.net),Error,dj zone: The server(s) responded over UDP with a malformed response or with an invalid RCODE. (196.201.196.41)
+www.adjib.dj,adjib.dj,0,-1,196.201.196.41#53(bow5.intnet.dj),NO,
+www.intnet.dj,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.intnet.dj,dj.,1,8,198.41.0.4#53(a.root-servers.net),Error,dj zone: The server(s) responded over UDP with a malformed response or with an invalid RCODE. (196.201.196.41)
+www.intnet.dj,intnet.dj.,0,-1,37.59.106.21#53(vps443605.ovh.net),NO,
+www.intnet.dj,intnet.dj.,0,-1,41.189.224.132#53(bow3.intnet.dj),NO,
+www.uapa.edu.do,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.uapa.edu.do,do.,1,8,192.112.36.4#53(g.root-servers.net),DelegationInsecure,
+www.uapa.edu.do,uapa.edu.do.,0,-1,128.223.32.35#53(phloem.uoregon.edu),NO,
+www.uapa.edu.do,uapa.edu.do.,0,-1,204.13.250.26#53(ns2.p26.dynect.net),NO,
+www.bpd.com.do,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.bpd.com.do,do.,1,8,192.33.4.12#53(c.root-servers.net),DelegationInsecure,
+www.bpd.com.do,bpd.com.do.,0,-1,190.113.65.12#53(ns2.nic.do),NO,
+www.bpd.com.do,bpd.com.do.,0,-1,200.88.127.27#53(ns2.claro.net.do),NO,
+www.corotos.com.do,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.corotos.com.do,do.,1,8,192.33.4.12#53(c.root-servers.net),DelegationInsecure,
+www.corotos.com.do,corotos.com.do.,0,-1,192.5.4.1#53(sns-pb.isc.org),NO,
+www.corotos.com.do,corotos.com.do.,0,-1,205.251.195.100#53(ns-868.awsdns-44.net),NO,
+www.iess.gob.ec,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.iess.gob.ec,ec.,1,8,193.0.14.129#53(k.root-servers.net),DelegationInsecure,
+www.iess.gob.ec,iess.gob.ec.,0,-1,200.12.199.1#53(n2.nic.ec),NO,"gob.ec to iess.gob.ec: The following NS name(s) were found in the authoritative NS RRset, but not in the delegation NS RRset (i.e., in the gob.ec zone): ns3139.dns.dyn.com, ns2174.dns.dyn.com, ns1166.dns.dyn.com, ns4186.dns.dyn.com"
+www.iess.gob.ec,iess.gob.ec.,0,-1,208.76.59.176#53(ns2176.dns.dyn.com),NO,
+www.sri.gob.ec,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.sri.gob.ec,ec.,1,8,198.41.0.4#53(a.root-servers.net),DelegationInsecure,
+www.sri.gob.ec,sri.gob.ec.,0,-1,192.5.4.1#53(sns-pb.isc.org),Error,sri.gob.ec zone: The server(s) were not responsive to queries over UDP. (186.42.213.36)
+www.sri.gob.ec,www.sri.gob.ec.,0,-1,181.39.59.69#53(dns1.sri.gob.ec),NO,
+www.forosecuador.ec,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.forosecuador.ec,ec.,1,8,199.7.91.13#53(d.root-servers.net),DelegationInsecure,
+www.forosecuador.ec,forosecuador.ec.,0,-1,200.12.199.1#53(n2.nic.ec),NO,
+www.forosecuador.ec,forosecuador.ec.,0,-1,98.143.148.22#53(ns2-forosecuador.ahwebhost.com),NO,
+www.yellowpages.com.eg,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.yellowpages.com.eg,eg.,1,8,199.7.91.13#53(d.root-servers.net),DelegationInsecure,"eg to com.eg: The following NS name(s) were found in the delegation NS RRset (i.e., in the eg zone), but not in the authoritative NS RRset: ns.idsc.gov.eg"
+www.yellowpages.com.eg,COM.eg.,0,-1,193.171.255.77#53(ns5.univie.ac.at),Error,com.eg zone: The server(s) were not responsive to queries over UDP. (163.121.2.2)
+www.yellowpages.com.eg,YELLOWPAGES.com.eg.,0,-1,193.227.1.1#53(FRCU.EUN.EG),NO,
+www.yellowpages.com.eg,www.yellowpages.com.eg.,0,-1,204.13.250.16#53(NS2.P16.DYNECT.NET),NO,
+www.olx.com.eg,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.olx.com.eg,eg.,1,8,199.9.14.201#53(b.root-servers.net),DelegationInsecure,"eg to com.eg: The following NS name(s) were found in the delegation NS RRset (i.e., in the eg zone), but not in the authoritative NS RRset: ns.idsc.gov.eg"
+www.olx.com.eg,OLX.com.eg.,0,-1,193.227.1.1#53(frcu.eun.eg),Error,com.eg zone: The server(s) were not responsive to queries over UDP. (163.121.2.2)
+www.olx.com.eg,olx.com.eg.,0,-1,204.69.234.1#53(UDNS1.ULTRADNS.NET),NO,
+www.jumia.com.eg,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.jumia.com.eg,eg.,1,8,199.9.14.201#53(b.root-servers.net),DelegationInsecure,"eg to com.eg: The following NS name(s) were found in the delegation NS RRset (i.e., in the eg zone), but not in the authoritative NS RRset: ns.idsc.gov.eg"
+www.jumia.com.eg,JUMIA.com.eg.,0,-1,147.28.0.39#53(rip.psg.com),Error,com.eg zone: The server(s) were not responsive to queries over UDP. (163.121.2.2)
+www.jumia.com.eg,jumia.com.eg.,0,-1,205.251.199.201#53(NS-1993.AWSDNS-57.CO.UK),NO,
+www.cronio.sv,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.cronio.sv,sv.,1,8,202.12.27.33#53(m.root-servers.net),DelegationInsecure,
+www.cronio.sv,cronio.sv.,0,-1,200.160.0.5#53(ns.dns.br),Error,"sv to cronio.sv: The server(s) for the parent zone (sv) responded with a referral instead of answering authoritatively for the DS RR type. (168.243.254.1, UDP_-_EDNS0_4096_D_K)"
+www.cronio.sv,www.cronio.sv,0,-1,8.33.137.137#53(sdns1.ovh.ca),Error,cronio.sv zone: The server(s) responded over TCP with a malformed response or with an invalid RCODE. (8.33.137.137)
+www.lapagina.com.sv,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.lapagina.com.sv,sv.,1,8,199.9.14.201#53(b.root-servers.net),DelegationInsecure,
+www.lapagina.com.sv,lapagina.com.sv.,0,-1,131.100.140.162#53(sir.red.sv),Error,"sv to lapagina.com.sv: The server(s) for the parent zone (sv) responded with a referral instead of answering authoritatively for the DS RR type. (168.243.254.1, UDP_-_EDNS0_4096_D_K)"
+www.lapagina.com.sv,www.lapagina.com.sv.,0,-1,173.245.59.124#53(jeff.ns.cloudflare.com),NO,
+www.ues.edu.sv,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.ues.edu.sv,sv.,1,8,198.41.0.4#53(a.root-servers.net),DelegationInsecure,"sv to ues.edu.sv: The server(s) for the parent zone (sv) responded with a referral instead of answering authoritatively for the DS RR type. (168.243.254.1, UDP_-_EDNS0_4096_D_K)"
+www.ues.edu.sv,ues.edu.sv.,0,-1,200.107.82.100#53(dns.nic.cr),Error,"ues.edu.sv zone: The server(s) were not responsive to queries over UDP. (168.232.48.200, 168.232.51.34)"
+www.ues.edu.sv,ues.edu.sv.,0,-1,168.232.49.155#53(dns1.ues.edu.sv),NO,
+www.swedbank.ee,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.swedbank.ee,ee.,1,8,192.203.230.10#53(e.root-servers.net),OK,
+www.swedbank.ee,6gubme2qosjktfife09gd4bancdl8dad.ee.,1,8,193.40.132.5#53(ee.eenet.ee),DelegationInsecure,
+www.swedbank.ee,swedbank.ee.,0,-1,193.203.196.200#53(dns1.crebit.ee),NO,
+www.postimees.ee,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.postimees.ee,ee.,1,8,192.33.4.12#53(c.root-servers.net),OK,
+www.postimees.ee,ebfntc22mhqnr2sr29bt406e0clqfppf.ee.,1,8,213.184.51.122#53(ee.aso.ee),DelegationInsecure,
+www.postimees.ee,postimees.ee.,0,-1,217.146.66.65#53(ns.zone.eu),NO,
+www.delfi.ee,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.delfi.ee,ee.,1,8,198.97.190.53#53(h.root-servers.net),OK,
+www.delfi.ee,919um59p2jrjf15t77klqgdq6bktahma.ee.,1,8,193.40.132.5#53(ee.eenet.ee),DelegationInsecure,
+www.delfi.ee,delfi.ee.,0,-1,205.251.195.250#53(ns-1018.awsdns-63.net),NO,
+www.ethiotelecom.et,.,1,8,192.115.106.35#53(192.115.106.35),OK,Site not work
+www.smuc.edu.et,.,1,8,192.115.106.35#53(192.115.106.35),OK,Site not work
+www.aau.edu.et,.,1,8,192.115.106.35#53(192.115.106.35),OK,Site not work
+www.femis.gov.fj,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.femis.gov.fj,fj.,1,8,192.33.4.12#53(c.root-servers.net),Error,"fj zone: The server(s) responded over UDP with a malformed response or with an invalid RCODE. (128.32.136.3, 128.32.136.14, 2607:f140:ffff:fffe::3, 2607:f140:ffff:fffe::e)"
+www.femis.gov.fj,femis.gov.fj.,0,-1,128.32.136.14#53(adns2.berkeley.edu),Error,"gov.fj zone: The server(s) responded over UDP with a malformed response or with an invalid RCODE. (202.62.124.238, 202.137.181.1)"
+www.fnu.ac.fj,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.fnu.ac.fj,fj.,1,8,192.58.128.30#53(j.root-servers.net),Error,"fj zone: The server(s) responded over UDP with a malformed response or with an invalid RCODE. (128.32.136.3, 128.32.136.14, 2607:f140:ffff:fffe::3, 2607:f140:ffff:fffe::e)"
+www.fnu.ac.fj,fnu.ac.fj,0,-1,128.32.136.3#53(adns1.berkeley.edu),Error,"fnu.ac.fj/DS: The response had an invalid RCODE (REFUSED). (128.32.136.3, 128.32.136.14, 2607:f140:ffff:fffe::3, 2607:f140:ffff:fffe::e, UDP_-_EDNS0_4096_D_K)"
+www.usp.ac.fj,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.usp.ac.fj,fj.,1,8,192.5.5.241#53(f.root-servers.net),Error,"fj zone: The server(s) responded over UDP with a malformed response or with an invalid RCODE. (128.32.136.3, 128.32.136.14, 2607:f140:ffff:fffe::3, 2607:f140:ffff:fffe::e)"
+www.usp.ac.fj,belo.usp.ac.fj.,0,-1,198.6.1.65#53(auth00.ns.uu.net),Error,"fj to usp.ac.fj: An SOA RR with owner name (usp.ac.fj) not matching the zone name (fj) was returned with the NODATA response. (144.120.8.1, UDP_-_EDNS0_4096_D_K)"
+www.tori.fi,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.tori.fi,fi.,1,8,192.203.230.10#53(e.root-servers.net),OK,
+www.tori.fi,erutdea37lgi5pmhcsp37gbm86jncnof.FI.,1,8,194.0.1.14#53(e.fi),DelegationInsecure,
+www.tori.fi,tori.fi.,0,-1,205.251.196.40#53(ns-1064.awsdns-05.org),NO,
+www.is.fi,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.is.fi,fi.,1,8,198.97.190.53#53(h.root-servers.net),OK,
+www.is.fi,o7bbjmjt9k6kqolf9gg0ebdk656sa917.fi.,1,8,204.61.216.98#53(g.fi),DelegationInsecure,
+www.is.fi,is.fi.,0,-1,205.251.199.225#53(ns-2017.awsdns-60.co.uk),NO,
+www.yle.fi,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.yle.fi,fi.,1,8,193.0.14.129#53(k.root-servers.net),OK,
+www.yle.fi,eg6nje00nruguq2t9fr3c995v315lq1a.fi.,1,8,194.0.1.14#53(e.fi),DelegationInsecure,
+www.yle.fi,yle.fi.,0,-1,205.251.199.90#53(ns-1882.awsdns-43.co.uk),NO,
+www.free.fr,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.free.fr,fr.,1,8,198.41.0.4#53(a.root-servers.net),OK,
+www.free.fr,BNI6QU9KQSFGI5U9N9SDL3FIFB2ANI0K.fr.,1,8,194.0.9.1#53(d.nic.fr),DelegationInsecure,
+www.free.fr,www.free.fr.,0,-1,212.27.60.20#53(freens2-g20.free.fr),NO,
+www.orange.fr,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.orange.fr,fr.,1,8,192.203.230.10#53(e.root-servers.net),OK,
+www.orange.fr,VRT9BA2GL52QS9SQ3AUV2VJ4R2OLH6SF.fr.,1,8,194.0.9.1#53(d.nic.fr),DelegationInsecure,
+www.orange.fr,www.orange.fr.,0,-1,80.10.202.224#53(ns2.orange.fr),NO,
+www.leboncoin.fr,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.leboncoin.fr,fr.,1,8,199.9.14.201#53(b.root-servers.net),OK,
+www.leboncoin.fr,19FH9TK5HKL36BEF3QOOLFFH2F102HRD.fr.,1,8,194.146.106.46#53(f.ext.nic.fr),DelegationInsecure,
+www.leboncoin.fr,leboncoin.fr.,0,-1,193.164.197.68#53(ns2.leboncoin.net),NO,
+www.petites-annonces.pf,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.petites-annonces.pf,pf.,1,8,199.7.83.42#53(l.root-servers.net),DelegationInsecure,
+www.petites-annonces.pf,petites-annonces.pf.,0,-1,202.3.225.10#53(ns1.mana.pf),NO,
+www.petites-annonces.pf,petites-annonces.pf.,0,-1,162.212.130.116#53(ns1.svmconsulting.com),NO,
+www.sg-bdp.pf,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.sg-bdp.pf,pf.,1,8,198.41.0.4#53(a.root-servers.net),DelegationInsecure,
+www.sg-bdp.pf,sg-bdp.pf.,0,-1,202.3.225.10#53(ns1.mana.pf),Error,"pf to sg-bdp.pf: No delegation NS records were detected in the parent zone (pf). This results in an NXDOMAIN response to a DS query (for DNSSEC), even if the parent servers are authoritative for the child. (202.3.225.10, 202.3.225.20, UDP_-_EDNS0_4096_D_K)"
+www.mana.pf,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.mana.pf,pf.,1,8,202.12.27.33#53(m.root-servers.net),DelegationInsecure,
+www.mana.pf,mana.pf.,0,-1,202.3.225.20#53(ns2.mana.pf),NO,
+www.jobartis.ga,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.jobartis.ga,ga.,1,8,202.12.27.33#53(m.root-servers.net),DelegationInsecure,
+www.jobartis.ga,jobartis.ga.,0,-1,185.21.170.49#53(c.ns.ga),NO,
+www.jobartis.ga,www.jobartis.ga.,0,-1,173.245.58.70#53(arya.ns.cloudflare.com),NO,
+www.gouv.ga,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.gouv.ga,ga.,0,-1,198.97.190.53#53(h.root-servers.net),DelegationInsecure,
+www.gouv.ga,gouv.ga.,0,-1,185.21.171.49#53(d.ns.ga),NO,
+www.gouv.ga,gouv.ga.,0,-1,197.231.64.105#53(ns2.aninf.ga),NO,
+www.emploi.ga,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.emploi.ga,ga.,1,8,202.12.27.33#53(m.root-servers.net),DelegationInsecure,
+www.emploi.ga,emploi.ga.,0,-1,185.21.168.49#53(a.ns.ga),NO,
+www.emploi.ga,emploi.ga.,0,-1,213.251.188.139#53(dns19.ovh.net),NO,
+www.standard.gm,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.standard.gm,gm.,1,8,192.5.5.241#53(f.root-servers.net),Error,gm zone: The server(s) were not responsive to queries over UDP. (196.49.1.87)
+www.standard.gm,standard.gm.,0,-1,196.216.168.29#53(ns-gm.afrinic.net),NO,"gm to standard.gm: The client cookie returned by the server did not match what was sent. (194.63.250.217, UDP_-_EDNS0_4096_D_K)"
+www.standard.gm,www.standard.gm.,0,-1,173.245.58.89#53(dahlia.ns.cloudflare.com),NO,
+www.thepoint.gm,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.thepoint.gm,gm.,1,8,192.33.4.12#53(c.root-servers.net),Error,gm zone: The server(s) were not responsive to queries over UDP. (196.49.1.87)
+www.thepoint.gm,thepoint.gm.,0,-1,196.216.168.29#53(ns-gm.afrinic.net),NO,"gm to thepoint.gm: The client cookie returned by the server did not match what was sent. (194.63.250.217, UDP_-_EDNS0_4096_D_K)"
+www.thepoint.gm,thepoint.gm.,0,-1,97.74.110.52#53(pdns05.domaincontrol.com),NO,
+www.utg.gm,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.utg.gm,gm.,1,8,193.0.14.129#53(k.root-servers.net),Error,gm zone: The server(s) were not responsive to queries over UDP. (196.49.1.87)
+www.utg.gm,utg.gm.,0,-1,196.216.168.29#53(ns-gm.afrinic.net),NO,"gm to utg.gm: The client cookie returned by the server did not match what was sent. (194.63.250.217, UDP_-_EDNS0_4096_D_K)"
+www.utg.gm,www.utg.gm.,0,-1,173.245.59.41#53(ns2.digitalocean.com),NO,
+www.mymarket.ge,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.mymarket.ge,ge.,1,8,202.12.27.33#53(m.root-servers.net),Error,"ge to mymarket.ge: The server(s) for the parent zone (ge) responded with a referral instead of answering authoritatively for the DS RR type. (212.72.130.11, UDP_-_EDNS0_4096_D_K)"
+www.mymarket.ge,mymarket.ge.,0,-1,137.39.1.3#53(ns.uu.net),NO,
+www.mymarket.ge,mymarket.ge.,0,-1,205.251.197.180#53(ns-1460.awsdns-54.org),NO,
+www.myvideo.ge,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.myvideo.ge,ge.,1,8,199.7.83.42#53(l.root-servers.net),Error,"ge to myvideo.ge: The server(s) for the parent zone (ge) responded with a referral instead of answering authoritatively for the DS RR type. (212.72.130.11, UDP_-_EDNS0_4096_D_K)"
+www.myvideo.ge,myvideo.ge.,0,-1,192.93.0.4#53(ns2.nic.fr),NO,
+www.myvideo.ge,www.myvideo.ge.,0,-1,173.245.58.194#53(maya.ns.cloudflare.com),NO,
+www.myauto.ge,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.myauto.ge,ge.,1,8,192.112.36.4#53(g.root-servers.net),Error,"ge to myauto.ge: The server(s) for the parent zone (ge) responded with a referral instead of answering authoritatively for the DS RR type. (212.72.130.11, UDP_-_EDNS0_4096_D_K)"
+www.myauto.ge,myauto.ge.,0,-1,137.39.1.3#53(ns.uu.net),NO,
+www.myauto.ge,myauto.ge.,0,-1,205.251.195.231#53(ns-999.awsdns-60.net),NO,
+www.spiegel.de,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.spiegel.de,de.,1,8,192.33.4.12#53(c.root-servers.net),OK,
+www.spiegel.de,869J0EHTM5NSP51SRH5P3UGQNH9401P7.de.,1,8,81.91.164.5#53(f.nic.de),DelegationInsecure,
+www.spiegel.de,www.spiegel.de.,0,-1,208.80.126.13#53(ns7.dnsmadeeasy.com),NO,
+www.web.de,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.web.de,de.,1,8,192.112.36.4#53(g.root-servers.net),OK,
+www.web.de,web.de.,1,8,194.246.96.1#53(z.nic.de),OK,
+www.web.de,www.web.de.,1,8,217.160.83.198#53(ns-webde.ui-dns.org),OK,
+www.ebay-kleinanzeigen.de,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.ebay-kleinanzeigen.de,de.,1,8,192.203.230.10#53(e.root-servers.net),OK,
+www.ebay-kleinanzeigen.de,S2IIQ9UMJP92CQUC14KG2IK80UTDR98F.de.,1,8,195.243.137.26#53(s.de.net),DelegationInsecure,
+www.ebay-kleinanzeigen.de,www.ebay-kleinanzeigen.de.,0,-1,91.211.75.18#53(dns47-2.mobile.de),NO,"ebay-kleinanzeigen.de to www.ebay-kleinanzeigen.de: The following NS name(s) were found in the delegation NS RRset (i.e., in the ebay-kleinanzeigen.de zone), but not in the authoritative NS RRset: ns1.p13.dynect.net, ns2.p13.dynect.net, ns3.p13.dynect.net, ns4.p13.dynect.net"
+www.ebay-kleinanzeigen.de,ebay-kleinanzeigen.de.,0,-1,208.78.70.13#53(ns1.p13.dynect.net),NO,
+www.jumia.com.gh,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.jumia.com.gh,gh.,1,8,192.33.4.12#53(c.root-servers.net),DelegationInsecure,
+www.jumia.com.gh,jumia.com.gh.,0,-1,197.253.95.251#53(ns1.nic.gh),NO,
+www.jumia.com.gh,jumia.com.gh.,0,-1,205.251.197.112#53(ns-1392.awsdns-46.org),NO,
+www.yen.com.gh,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.yen.com.gh,gh.,1,8,192.203.230.10#53(e.root-servers.net),DelegationInsecure,
+www.yen.com.gh,yen.com.gh.,0,-1,197.253.127.251#53(ns2.nic.gh),NO,
+www.yen.com.gh,www.yen.com.gh.,0,-1,173.245.58.246#53(asa.ns.cloudflare.com),NO,
+www.betway.com.gh,.,1,8,192.115.106.35#53(192.115.106.35),DelegationInsecure,
+www.betway.com.gh,gh.,1,8,192.33.4.12#53(c.root-servers.net),DelegationInsecure,
+www.betway.com.gh,betway.com.gh.,0,-1,197.253.127.251#53(ns2.nic.gh),NO,
+www.betway.com.gh,www.betway.com.gh.,0,-1,173.245.58.129#53(leah.ns.cloudflare.com),NO,
+www.zougla.gr,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.zougla.gr,gr.,1,8,199.9.14.201#53(b.root-servers.net),OK,
+www.zougla.gr,5ncjtumj9v9j9m8map8m40mq7uvq6s94.gr.,1,7,194.0.1.25#53(gr-c.ics.forth.gr),DelegationInsecure,
+www.zougla.gr,www.zougla.gr.,0,-1,194.30.220.118#53(ns2.hol.gr),NO,
+www.in.gr,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.in.gr,gr.,1,8,192.5.5.241#53(f.root-servers.net),OK,
+www.in.gr,gmf77ukljn2lul5t91hno2qpn2huplvv.gr.,1,7,194.0.1.25#53(gr-c.ics.forth.gr),DelegationInsecure,
+www.in.gr,in.gr.,0,-1,194.63.247.20#53(ns.in.gr),Error,"in.gr zone: The server(s) were not responsive to queries over UDP. (194.63.247.20, 194.63.247.134)"
+www.lifo.gr,.,1,8,192.115.106.35#53(192.115.106.35),OK,
+www.lifo.gr,gr.,1,8,199.7.83.42#53(l.root-servers.net),OK,
+www.lifo.gr,ESJOA7LMM84MU05CP2O6998L30CC7GU0.gr.,1,7,139.91.191.3#53(estia.ics.forth.gr),DelegationInsecure,
+www.lifo.gr,www.lifo.gr,0,-1,116.203.181.27#53(dns1.papaki.gr),NO,
