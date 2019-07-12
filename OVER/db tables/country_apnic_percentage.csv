@@ -1,0 +1,179 @@
+Country,SEC-site,Wikipedia,APNIC Percentage
+Afganistan,8.71,Y,0-10
+Albania,24.01,N,20-30
+Algeria,6.8,N,0-10
+Angola,32.64,N,30-40
+Argentina,14.59,Y,10-20
+Armenia,57.95,Y,50-60
+Australia,23.81,Y,20-30
+Austria,5.03,Y,0-10
+Azerbaijan,57.72,Y,50-60
+Bahamas,61.79,Y,60-70
+Bahrain,None,Y,None
+Bangladesh,38.72,N,30-40
+Barbados,None,N,None
+Belarus,25.14,Y,20-30
+Belgium,20.5,Y,20-30
+Belize,25.99,Y,20-30
+Benin,85.09,Y,80-90
+Bermuda,None,Y,None
+Bhutan,92.45,Y,90-100
+Bolivia,5.48,Y,0-10
+Bosnia and Herzegovina,36,Y,30-40
+Botswana,9.98,Y,0-10
+Brazil,39.7,Y,30-40
+Brunei,18.78,Y,10-20
+Bulgaria,21.02,Y,20-30
+Burkina Faso,17.88,N,10-20
+Burundi,8.96,Y,0-10
+Cambodia,50.9,N,50-60
+Cameroon,7.34,N,0-10
+Canada,11.84,Y,10-20
+Cape Verde,None,N,None
+Chile,4.24,Y,0-10
+China,1.08,Y,0-10
+Colombia,8.72,Y,0-10
+Congo,15.5,N,10-20
+Costa Rica,33.53,Y,30-40
+Cote d'Ivoire,26.14,N,20-30
+Croatia,18.94,Y,10-20
+Cuba,6.31,N,0-10
+Curaça,None,N,None
+Cyprus,6.83,N,0-10
+Czech Republic,64.67,Y,60-70
+Democratic Republic of Congo,None,N,None
+Denmark,75.24,Y,70-80
+Djibouti,86.9,N,80-90
+Dominican Republic,12.05,N,10-20
+Ecuador,13.51,N,10-20
+Egypt,23.65,N,20-30
+El Salvador,3.69,N,0-10
+Estonia,59.78,Y,50-60
+Ethiopia,16.04,N,10-20
+Fiji,38.19,N,30-40
+Finland,8.37,Y,0-10
+France,26.5,Y,20-30
+French Guiana,3.06,N,0-10
+French Polynesia,None,N,None
+Gabon,21.07,N,20-30
+Gambia,None,N,None
+Georgia,17.05,N,10-20
+Germany,47.25,Y,40-50
+Ghana,74.19,N,70-80
+Greece,14.72,Y,10-20
+Guadeloupe,None,N,None
+Guam,None,N,None
+Guatemala,8.53,N,0-10
+Guinea,0.8,Y,0-10
+Guyana,3.05,N,0-10
+Haiti,32.69,N,30-40
+Honduras,32.07,Y,30-40
+Hungary,11.8,Y,10-20
+Iceland,90.65,Y,90-100
+India,32.54,Y,30-40
+Indonesia,10.61,Y,10-20
+Iran,22.99,N,20-30
+Iraq,62.04,Partial,60-70
+Ireland,21.09,Y,20-30
+Israel,46.88,Y,40-50
+Italy,8.56,Y,0-10
+Jamaica,57.18,N,50-60
+Japan,9.17,Y,0-10
+Jordan,2.37,N,0-10
+Kazakhstan,40.35,N,40-50
+Kenya,20.81,Y,20-30
+Kuwait,2.29,N,0-10
+Kyrgyzstan,5.3,Y,0-10
+Laos,18.3,Y,10-20
+Latvia,63.5,Y,60-70
+Lebanon,15.08,Y,10-20
+Lesotho,7.85,N,0-10
+Liberia,93.35,Partial,90-100
+Libya,31.87,N,30-40
+Lithuania,28.86,Y,20-30
+Luxembourg,68.55,Y,60-70
+Macedonia,30.73,N,30-40
+Madagascar,7.48,Y,0-10
+Malawi,26.97,N,20-30
+Malaysia,19.08,Y,10-20
+Maldives,None,N,None
+Mali,3.35,N,0-10
+Malta,None,N,None
+Martinique,11,N,10-20
+Mauritania,26.18,N,20-30
+Mauritius,4.53,N,0-10
+Mayotte,None,Y,None
+Mexico,4.25,Y,0-10
+Moldova,10.98,N,10-20
+Mongolia,53.5,Y,50-60
+Montenegro,5.34,Y,0-10
+Morocco,3.19,Partial,0-10
+Mozambique,21.19,N,20-30
+Myanmar,35.46,Y,30-40
+Namibia,10.09,Y,10-20
+Nepal,15.72,N,10-20
+Netherlands,18.36,Y,10-20
+New Caledonia,48.99,Y,40-50
+New Zealand,47.58,Y,40-50
+Nicaragua,12.14,N,10-20
+Niger,37.72,N,30-40
+Nigeria,3.7,N,0-10
+Norway,80.24,Y,80-90
+Oman,2.63,N,0-10
+Pakistan,12.59,N,10-20
+Palestinian Territory,None,N,None
+Panama,42.58,N,40-50
+Papua New Guinea,43.46,N,40-50
+Paraguay,11.22,N,10-20
+Peru,4.42,Y,0-10
+Philippines,14.5,N,10-20
+Poland,38.25,Y,30-40
+Portugal,52.45,Y,50-60
+Puerto Rico,37.43,Y,30-40
+Qatar,1.73,N,0-10
+Reunion,6.87,Y,0-10
+Romania,4.54,Y,0-10
+Russia,13.67,Y,10-20
+Rwanda,31.84,N,30-40
+Saint Lucia,None,Y,None
+Saudi Arabia,4.03,Y,0-10
+Senegal,67.75,Y,60-70
+Serbia,21.64,N,20-30
+Seychelles,None,Y,None
+Sierra Leone,65.36,N,60-70
+Singapore,None,Y,None
+Slovakia,18.05,Y,10-20
+Slovenia,56.7,Y,50-60
+Somalia,47.77,N,40-50
+South Africa,44.76,Y,40-50
+South Korea,2.08,Y,0-10
+Spain,8.86,Y,0-10
+Sri Lanka,9.08,Y,0-10
+Sudan,4.03,N,0-10
+Suriname,6.63,N,0-10
+Swaziland,26.74,N,20-30
+Sweden,79.25,Y,70-80
+Switzerland,22.59,Y,20-30
+Syrian Arab Republic,20.2,Y,20-30
+Taiwan,4.45,Y,0-10
+Tajikistan,30.79,N,30-40
+Tanzania,18.22,Y,10-20
+Thailand,3.63,Y,0-10
+Timor-Leste,7.85,Y,0-10
+Togo,44.15,N,40-50
+Trinidad and Tobago,2.54,Y,0-10
+Tunisia,9.42,Y,0-10
+Turkey,26.94,N,20-30
+Turkmenistan,57.89,Y,50-60
+Uganda,15.75,Y,10-20
+Ukraine,28.69,Y,20-30
+United Arab Emirates,12.54,N,10-20
+United Kingdom,7.43,Y,0-10
+United States,22.37,Y,20-30
+Uruguay,2.7,Y,0-10
+Uzbekistan,44.39,N,40-50
+Venezuela,17.79,N,10-20
+Vietnam,11.46,Y,10-20
+Yemen,72.97,N,70-80
+Zambia,4.88,Y,0-10
+Zimbabwe,35.34,N,30-40
